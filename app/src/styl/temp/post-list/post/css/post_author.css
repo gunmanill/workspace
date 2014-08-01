@@ -1,0 +1,17 @@
+.b-post__item__author {
+  font-size: 12px;
+  font-weight: bold;
+  color: #fff;
+  font-family: Helvetica Neue,arial,sans-serif;
+}
+
+.b-post__item__author-pic {
+  width: 42px;
+  height: 42px;
+  vertical-align: middle;
+}
+
+.b-post__item__author-name {
+  vertical-align: middle;
+  padding-left: 11px;
+}

@@ -1,0 +1,30 @@
+.btn-warning {
+  color: #ffffff;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+  background: linear-gradient(top, #fbb450, #f89406)
+  background-repeat: repeat-x;
+  border-color: #f89406 #f89406 #ad6704;
+  border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+}
+.btn-danger {
+  color: #ffffff;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+  background: linear-gradient(top, #d95d3d, #bf4e27)
+  background-repeat: repeat-x;
+  border-color: #bd362f #bd362f #802420;
+  border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+
+  &:hover,
+  &:active,
+  &.active,
+  &.disabled,
+  &[disabled] {
+    color: #ffffff;
+    background-color: #bd362f;
+    *background-color: #a9302a;
+  }
+  &:active,
+  &.active {
+    background-color: #942a25 \9;
+  }
+}

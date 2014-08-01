@@ -1,0 +1,14 @@
+.b-post__item-footer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 10px;
+  z-index: 1;
+}
+
+.b-post__item__pots-time {
+  position: absolute;
+  right: 10px;
+  bottom: 20px;
+}

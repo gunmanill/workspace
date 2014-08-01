@@ -1,0 +1,124 @@
+{
+  "name": "icon",
+  "checksum": "3a7e31f4f6a69a077c10d878629a02f6",
+  "shortsum": "3a7e3",
+  "images": [
+    {
+      "name": "blogs",
+      "filename": "blogs.png",
+      "checksum": "3d2584f6dc8105779088968f71980e28",
+      "width": 19,
+      "height": 17,
+      "positionX": 0,
+      "positionY": 0
+    },
+    {
+      "name": "close",
+      "filename": "close.png",
+      "checksum": "e1b434b9d1bdbfe62b00ebb6991b0cf9",
+      "width": 12,
+      "height": 13,
+      "positionX": 0,
+      "positionY": 19
+    },
+    {
+      "name": "events",
+      "filename": "events.png",
+      "checksum": "46c77261371ee153e233aba08ac2be11",
+      "width": 20,
+      "height": 20,
+      "positionX": 0,
+      "positionY": 34
+    },
+    {
+      "name": "feed",
+      "filename": "feed.png",
+      "checksum": "f8e836c60ba69a4b9ae7011cdf57aaf2",
+      "width": 20,
+      "height": 18,
+      "positionX": 0,
+      "positionY": 56
+    },
+    {
+      "name": "groups",
+      "filename": "groups.png",
+      "checksum": "ecca99604fc265e44bd67190de4106f6",
+      "width": 20,
+      "height": 16,
+      "positionX": 0,
+      "positionY": 76
+    },
+    {
+      "name": "levels",
+      "filename": "levels.png",
+      "checksum": "57f856c0b7eeae2d32a4c8cfca5d181a",
+      "width": 20,
+      "height": 20,
+      "positionX": 0,
+      "positionY": 94
+    },
+    {
+      "name": "media",
+      "filename": "media.png",
+      "checksum": "5cf5a16d007afcfbe1e099969a7a61b5",
+      "width": 20,
+      "height": 15,
+      "positionX": 0,
+      "positionY": 116
+    },
+    {
+      "name": "pages",
+      "filename": "pages.png",
+      "checksum": "c6c634937a10730a3fe9b903b6c92a05",
+      "width": 20,
+      "height": 19,
+      "positionX": 0,
+      "positionY": 133
+    },
+    {
+      "name": "planet",
+      "filename": "planet.png",
+      "checksum": "7af1c38114b552b52d5c02e0c23366b7",
+      "width": 20,
+      "height": 20,
+      "positionX": 0,
+      "positionY": 154
+    },
+    {
+      "name": "resumes",
+      "filename": "resumes.png",
+      "checksum": "0928b21dc05738d5becbd2494dbc2121",
+      "width": 19,
+      "height": 13,
+      "positionX": 0,
+      "positionY": 176
+    },
+    {
+      "name": "search",
+      "filename": "search.png",
+      "checksum": "e3f8d2393926727a5a03d8bf71bb52ca",
+      "width": 15,
+      "height": 15,
+      "positionX": 0,
+      "positionY": 191
+    },
+    {
+      "name": "search2",
+      "filename": "search2.png",
+      "checksum": "4a66b2ca81c2d83e67d65c8df71cf657",
+      "width": 15,
+      "height": 15,
+      "positionX": 0,
+      "positionY": 208
+    },
+    {
+      "name": "vype",
+      "filename": "vype.png",
+      "checksum": "eabd77c5828a8b65ba11b8d71cacd420",
+      "width": 20,
+      "height": 18,
+      "positionX": 0,
+      "positionY": 225
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+.component-auth {
+	width: 270px;
+	background: #fff;
+	border-radius: 4px;
+
+	//position : fixed;
+
+	&_embedded  {
+		margin: 13px auto 0;
+	}
+	.w-component-auth {
+		padding: 12px;
+		position : relative;
+		background-color: white;
+	}
+
+	&__errors {
+		position : absolute;
+		top:0;
+		left :0;
+		right :0;
+		background : #ec7e44;
+		min-height : 20px;
+		padding : 10px 0;
+		text-align : center;
+		color:#fff;
+		visibility : hidden;
+	}
+
+	.close-popup {
+		right: 12px;
+		top: 12px;
+		width: 12px;
+		height: 13px;
+		position: absolute;
+		cursor: pointer;
+		display : none;
+	}
+
+	&__header  {
+		text-align: center;
+		padding: 5px 0;
+	}
+
+	&__body  {
+		padding: 5px 0;
+	}
+
+	.component_form input {
+		width: 100%;
+	}
+
+	&__footer  {
+		border-top: 1px solid #d0cfcf;
+		padding: 15px 0;
+	}
+
+	&__button  {
+		&:after {
+			content: '';
+			display: block;
+			clear: both;
+		}
+	}
+
+	.btn-log-in {
+		float: right;
+		margin-right: 0;
+	}
+}

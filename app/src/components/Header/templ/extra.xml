@@ -1,0 +1,44 @@
+<div class="b-extra">
+	<div class="b-blur_wrapper">
+		<div class="b-blur"></div>
+	</div>
+	<div class="b-extra-content">
+		<div class="b-extra-content-wrapper">
+			<div class="b-extra__search">
+				<input class="b-extra__search-field" type="text" value="{{=app.i18n('Header:extra', 'search_in_veevavoo')}}"/>
+				<div class="icon-sprite-search2"></div>
+			</div>
+
+			<div class="b-extra__profile">
+				<div class="b-extra__profile__img" style="background: url({{=it.profile.user_pic}}) no-repeat 0 0;"></div>
+				<div class="b-extra__profile__name">{{=it.profile.name}}</div>
+				<div class="b-extra__profile__name">{{=it.profile.firstName}}</div>
+				<div class="b-extra__profile__settings">{{=app.i18n('Header:extra', 'settings')}}</div>
+			</div>
+
+			<div class="b-extra-b-menu">
+			{{ var last; for(var key in it.counters)last = key;
+				for(var key in it.counters) { }}
+				<div class="b-extra-b-menu__item {{? it.active_menu == key}} b-extra-b-menu__menu-item_active{{?}} {{? key == last}} b-extra-b-menu__item_no-border{{?}}">
+					<div class="icon-sprite-{{=key}} b-extra-b-menu__img"></div>
+					<div class="b-extra-b-menu__menu-item">
+						<span class="b-extra-b-menu__menu-item__text" data-key="{{=key}}">
+							{{=app.i18n('Header:extra', key)}}
+						</span>
+						{{? it.counters[key] > 0}}
+							<span class="b-extra-b-menu__menu-item__counter">
+								{{=it.counters[key]}}
+							</span>
+						{{?}}
+					</div>
+				</div>
+			{{ } }}
+			</div>
+
+			<div class="b-extra__my-hub">{{=app.i18n('Header:extra', 'my_hub')}}</div>
+			{{ for(var i=0; i<100;i++) { }}
+			<input style="visibility:hidden"/><br/>
+			{{}}}
+		</div>
+	</div>
+</div>

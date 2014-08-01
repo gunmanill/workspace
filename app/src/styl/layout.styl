@@ -1,0 +1,270 @@
+html, body {
+	height: 100%;
+}
+
+
+
+.b-blur_wrapper {
+	filter : blur(25px);
+}
+
+
+html {
+	font-size: 100%;
+	text-size-adjust: 100%;
+	overflow-y: scroll;
+}
+
+body {
+	cursor : default;
+	color: $black;
+	font-family: arial, sans-serif, helvetica;
+	font-size: 1em;
+	line-height: 1.4;
+	margin: 0;
+	padding: 0;
+	min-width: 60em; /* 960px */
+	font-smoothing: subpixel-antialiased !important;
+
+	&.modal-active {
+		/*overflow: hidden;*/
+
+		.main {
+			overflow: hidden;
+			-webkit-filter: grayscale(100%) blur(5px);
+			-moz-filter: grayscale(100%) blur(5px);
+			-o-filter: grayscale(100%) blur(5px);
+			-ms-filter: grayscale(100%) blur(5px);
+			filter: grayscale(100%) blur(5px);
+		}
+	}
+
+	&.no-overflow {
+		overflow: auto;
+	}
+
+}
+
+/*
+ * Addresses font sizes and margins set differently in IE 6/7.
+ * Addresses font sizes within `section` and `article` in Firefox 4+, Safari 5,
+ * and Chrome.
+ */
+h1, h2, h3 {
+	font-weight: normal;
+	color: #333;
+	margin: 0;
+}
+
+h1 {
+	font-size: 24px;
+	margin: 0 0 .67em 0;
+	&.padding {
+		padding-top: 1em;
+	}
+}
+
+h2 {
+	font-size: 18px;
+}
+
+h3 {
+	font-size: 15px;
+	text-transform: uppercase;
+}
+
+h4 {
+	font-size: 1em;
+}
+
+h5 {
+	font-size: 0.83em;
+}
+
+h6 {
+	font-size: 0.75em;
+}
+
+a {
+	color: $blue;
+	text-decoration: none;
+	-webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+	tap-highlight-color: rgba(255, 255, 255, 0);
+	outline: none;
+
+	&:focus {
+		outline: none;
+	}
+	&:active,
+	&:hover {
+		outline: none;
+		-webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+		tap-highlight-color: rgba(255, 255, 255, 0);
+	}
+	&:hover {
+		color: $orange;
+		border-bottom-color: $orange;
+	}
+}
+
+img {
+	border: 0;
+	-ms-interpolation-mode: bicubic;
+}
+
+.main {
+	min-height: 100%;
+	width : $page-min;
+	overflow : hidden;
+	margin : 0 auto;
+}
+
+
+.b-content {
+	box-sizing: border-box;
+	position: relative;
+
+	&:after {
+		content: '';
+		display: block;
+		clear: both;
+	}
+}
+
+.column {
+	position: relative;
+	vertical-align: top;
+
+	&_left,
+	&_right    {
+		padding: 1.4em $page-padding[1];
+		width: $column-width -2 * $page-padding[1];
+		background-color: #f2f3f6;
+		position: relative;
+		padding-bottom: 1000em !important;
+		margin-bottom: -997em !important; /* компенсация высоты футера */
+	}
+
+	&_left    {
+		float: left;
+	}
+
+	&_right    {
+		float: right;
+	}
+
+	&_center    {
+		//width: 100%;
+		background: $white;
+		padding: 0 15px 30px;
+		//margin: 0 $column-width;
+		float: none;
+		//min-width: $min-width;
+		//max-width: $max-width;
+		padding-bottom: 1000em !important;
+		margin-bottom: -997em !important; /* компенсация высоты футера */
+		box-shadow: 0 .4em .4em rgba(0, 0, 0, 0.3);
+		z-index: 1;
+	}
+}
+
+
+
+.columns-flex {
+	display: table;
+	width: 100%;
+
+	.column-flex {
+		display: table-cell;
+		vertical-align: top;
+		box-sizing: border-box;
+		position: relative;
+	}
+}
+
+
+
+
+// -------- extra ---------
+.b-block,
+.b-text-big {
+	display: block;
+}
+
+.b-text-small,
+.b-inline-block {
+	display: inline-block;
+}
+
+.b-text-big,
+.b-text-small {
+	font-family: arial, sans-serif;
+	line-height: 1em;
+}
+
+.b-text-big {
+	font-size: 20px;
+	padding-bottom: 5px;
+	color: #000;
+}
+
+.b-text-big-positive {
+	color: #3b983a;
+}
+
+.b-text-small {
+	font-size: 14px;
+	color: #858585;
+}
+
+.fade {
+	position: fixed;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background-color: rgba(0, 0, 0, 0.5);
+	z-index: 1100;
+}
+
+.b-box-round {
+	border-radius: 5px;
+	box-sizing: border-box;
+	border: 1px solid #c5c5c9;
+	background-color: #fff;
+	padding: 13px 10px;
+}
+
+.b-box-round-bottom {
+	@extend .b-box-round;
+	border-top-left-radius(0);
+	border-top-right-radius(0);
+}
+
+.b-table {
+	display: table;
+	border-collapse: collapse;
+	width: 100%;
+}
+
+.b-table__cell {
+	display: table-cell;
+}
+
+.color-grey {
+	color: #6e6e6e;
+}
+
+.clearfix {
+
+}
+
+.clearfix:before,
+.clearfix:after {
+	display: table;
+	content: " ";
+}
+
+.clearfix:after {
+	clear: both;
+}

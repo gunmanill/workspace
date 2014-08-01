@@ -1,0 +1,55 @@
+font-names	=	('small'	'medium'	'large'	'big')
+font-values	=	($small		$medium		$large	$big)
+
+for name, key in font-names {
+	.{name} {
+		font-size: font-values[key];
+	}
+}
+
+.bold {
+	font-weight: bold;
+}
+.uppercase {
+	text-transform:uppercase;
+}
+.text-shadow {
+	text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.4);
+
+	&.black {
+		text-shadow: 0 -1px 0 rgba(255, 255, 255, 0.4);
+	}
+}
+.center {
+	text-align: center;
+}
+.block {
+	display: block;
+}
+
+
+font-url(file) {
+	return 'images/fonts/' + file
+}
+
+@font-face {
+	font-family: 'HelveticaNeuecyr';
+	src: url(font-url('helveticaneuecyr-bold-webfont.eot'));
+	src: url(font-url('helveticaneuecyr-bold-webfont.eot?#iefix')) format('embedded-opentype'),
+		url(font-url('helveticaneuecyr-bold-webfont.woff')) format('woff'),
+		url(font-url('helveticaneuecyr-bold-webfont.ttf')) format('truetype'),
+		url(font-url('helveticaneuecyr-bold-webfont.svg#helveticaneuecyrbold')) format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'proxima_novabold';
+	src: url(font-url('proximanova-bold-webfont.eot'));
+	src: url(font-url('proximanova-bold-webfont.eot?#iefix')) format('embedded-opentype'),
+		url(font-url('proximanova-bold-webfont.woff')) format('woff'),
+		url(font-url('proximanova-bold-webfont.ttf')) format('truetype'),
+		url(font-url('proximanova-bold-webfont.svg#proxima_novabold')) format('svg');
+	font-weight: normal;
+	font-style: normal;
+}

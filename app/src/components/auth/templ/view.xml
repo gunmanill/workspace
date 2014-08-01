@@ -1,0 +1,25 @@
+<i class="icon-sprite-close close-popup"></i>
+<div class="w-component-auth">
+	<div class="component-auth__errors"></div>
+	<div class="component-auth__header">
+		<h3>Sign Up</h3>
+	</div>
+	<div class="component-auth__body">
+		<form class="component-auth__form">
+
+			<div class="component_form">
+				<input type="text" class="component_form__login" value="" placeholder="Phone / E-Mail" />
+			</div>
+			<div class="component_form">
+				<input type="password" class="component_form__password" value="" placeholder="Password" />
+			</div>
+			<div class="component-auth__button">
+				<span class="btn btn-purple">Keep me logged in</span>
+				<button class="btn btn-purple btn-without_bg btn-log-in js-auth" type="submit">Log in</button>
+			</div>
+		</form>
+	</div>
+	<div class="component-auth__footer">
+
+	</div>
+</div>

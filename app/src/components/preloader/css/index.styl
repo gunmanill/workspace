@@ -1,0 +1,42 @@
+.preloader {
+  position: absolute;
+  left: 50%;
+  background-image: url(images/show-more-loader.gif);
+  background-size: 30px 10px;
+  background-repeat: no-repeat;
+  height: 19px;
+  width: 30px;
+  z-index: 5;
+}
+
+.preloader-root {
+  top: 50%;
+  margin: -5px 0 0 -15px;
+}
+
+.clear-position {
+  left: 50%;
+  top:50%;
+  margin: -2px 0 0 -15px;
+}
+
+// прелоадер в кнопке  - Показать еще
+.btn-preloader {
+  .preloader-more {
+    display: none;
+  }
+
+  &-show {
+
+    .btn-add-child__text {
+      display: none;
+    }
+
+    .preloader-more {
+      display: block;
+      top: 50%;
+      margin: -5px 0 0 -15px;
+    }
+  }
+}
+

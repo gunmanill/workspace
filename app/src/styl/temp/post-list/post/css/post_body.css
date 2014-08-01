@@ -1,0 +1,10 @@
+.b-post__item__body {
+  position: relative;
+  color: #fff;
+  z-index: 1;
+}
+
+.b-post__item__body-uniq {
+  margin-top: 13px;
+  overflow: hidden;
+}

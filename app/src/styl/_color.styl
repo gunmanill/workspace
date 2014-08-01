@@ -1,0 +1,21 @@
+colors = ('black' 'blue' 'gray' 'white' 'orange' 'green' 'gray-l' 'red')
+color-values = ($black $blue $gray $white $orange $green $gray-l $red)
+
+for color, key in colors {
+  .{color} {
+    color: color-values[key];
+  }
+  .dotted.{color} {
+    border-bottom-color: color-values[key];
+  }
+}
+
+.dotted {
+  border: 0 dotted;
+  border-bottom-width: 1px;
+
+  &.top {
+    border-width: 1px 0 0 0;
+  }
+
+}

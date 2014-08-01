@@ -1,0 +1,66 @@
+
+<div class="b-under-top-line">
+
+	<div class="b-blur_wrapper">
+		<div class="b-blur"></div>
+	</div>
+
+</div>
+
+<div class="b-menu-list controller" name="Extra" data-view="Header:extra">
+</div>
+
+<div class="b-top-line">
+
+	<div class="b-top-line-left-sec">
+        <div class="b-top-line-menu-left">
+            <span class="b-top-line-menu-left__item"></span>
+            <span class="b-top-line-menu-left__item"></span>
+            <span class="b-top-line-menu-left__item"></span>
+
+
+        </div>
+
+		<a class="b-top-line__sitename" href="/">VeeVaVoo</a>
+		<div class="b-top-line__relWrapper">
+			<span class="b-top-line__fillin"></span>
+			<span class="b-top-line__planet icon-sprite-planet"></span>
+			<span class="b-top-line__planet_hover icon-sprite-planet"></span>
+		</div>
+		<a class="b-top-line__create" href="/create">Create</a>
+	</div>
+
+	<span class="b-top-line-login">
+		<a class="b-top-line-login__item">Login</a>
+		<a class="b-top-line-login__item b-top-line-login_shifted1">Sign up</a>
+	</span>
+
+	<div class="b-top-line-menu-right">
+        <a class="b-top-line-menu-right__item jobs" href="/jobs">Jobs</a>
+        <a class="b-top-line-menu-right__item dating" href="/dating">Dating</a>
+        <a class="b-top-line-menu-right__item social" href="/">Social</a>
+	</div>
+
+</div>
+
+
+<div class="b-header_showcase">
+	<div class="b-header_popular">popular</div>
+	<div class="b-header_welcome">
+		<span class="b-header_welcome__to b-block">Welcome to</span>
+		<span class="b-header_welcome__VeeVaVoo b-block">VeeVaVoo</span>
+	</div>
+</div>
+
+
+<!-- Подключаем шаблон меню -->
+<div class="b-header-menu-bottom">
+{{for(var i=0; i<it.menu.length; i++) { }}
+<a class="b-header-menu-bottom__item js_{{=it.menu[i].filter}}" href="/{{=it.menu[i].filter}}">
+	{{=it.menu[i].name}}
+</a>
+{{ } }}
+</div>
+
+
+

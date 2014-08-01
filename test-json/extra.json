@@ -1,0 +1,70 @@
+{
+	"profile" : {
+		"name" : "Elsa",
+		"firstName" : "Hosk",
+		"user_pic" : "images/extra/elsaHosk.png"
+	},
+
+	"counters" : {
+		"feed" : 0,
+		"vype" : 0,
+		"levels" : 0,
+		"media" : 0,
+		"resumes" : 123,
+		"blogs" : 0,
+		"groups" : 0,
+		"pages" : 0,
+		"events" : 0
+	},
+
+	"notifications" :
+		[
+			{
+				"type" : "chat_message",
+				"time" : "10:46",
+				"author" : {
+					"name" : "Ken",
+					"firstName" : "Chelsea",
+					"id" : 5,
+					"user_pic" : "images/post-list/user_5.png"
+				},
+				"message" : "Take a look at this awesome gallery I sent u!",
+				"attachment" : null
+			},
+			{
+				"type" : "chat_message",
+				"time" : "10:40",
+				"author" : {
+					"name": "Ciara",
+					"firstName": "Brixton",
+					"id": "2",
+					"user_pic": "images/post-list/user_2.png"
+				},
+				"message" : "Have u seen that video on feed?",
+				"attachment" : {
+					"type" : "video",
+					"preview" : "images/extra/video_preview.png"
+				}
+			},
+			{
+				"type" : "chat_message",
+				"time" : "10:36",
+				"author" : {
+					"name": "Bryan",
+					"firstName": "Depfort",
+					"id": "3",
+					"user_pic": "images/post-list/user_3.png"
+				},
+				"message" : "",
+				"attachment" : {
+					"type" : "image_send"
+				}
+			},
+			{
+				"type" : "calendar_event",
+				"time" : "15:00",
+				"message" : "Call Ken and talk about beer"
+			},
+			{}
+		]
+}

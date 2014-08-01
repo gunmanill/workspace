@@ -1,0 +1,171 @@
+.b-extra {
+	width : 266px;
+	height : 1275px;
+	position : relative;
+	overflow : hidden;
+
+	& .icon-sprite-search2 {
+
+		position : absolute;
+		right : 0;
+		top : 0;
+		cursor : pointer;
+
+		&:hover {
+			transform : scale(1.2);
+			transition: transform 0.5s ease;
+		}
+	}
+
+	&__search {
+		position : relative;
+		margin : 10px 30px;
+		border-bottom: 1px solid rgba(250, 250, 250, 0.3);
+
+		&-field {
+			background: transparent;
+			border: 0;
+			color : rgba(250, 250, 250, 0.9);
+		}
+	}
+
+	&__profile {
+		margin : 10px 30px;
+
+		&__img {
+			float : left;
+			border-radius : 25px;
+			border : 3px solid rgba(255, 255, 255, 0.7);
+			width: 50px;
+			height: 50px;
+			margin-right : 10px;
+
+			&:hover {
+				border-color : white;
+				transition: border-color 0.5s ease;
+			}
+		}
+
+		&__name {
+			line-height : 16px;
+			font-family: Helvetica Neue, arial, sans-serif;
+			font-size : 15px;
+			font-weight: bold;
+			color : white;
+			padding-left: 70px;
+		}
+
+		&__settings {
+			margin-top : 8px;
+			color : white;
+			font-family: Helvetica Neue, arial, sans-serif;
+			font-size : 12px;
+			display : inline-block;
+			padding : 0 8px;
+			height : 20px;
+			background-color : rgba(255, 255, 255, 0.2);
+			line-height : 20px;
+			cursor : pointer;
+
+			&:hover {
+				color : black;
+				transition: color 0.5s ease;
+			}
+		}
+	}
+
+	&-b-menu {
+
+		&__item {
+			height : 40px;
+
+			&_no-border {
+				& .b-extra-b-menu__menu-item {
+					border : none !important;
+				}
+			}
+
+		}
+
+		&__img {
+			margin-left : 55px;
+			margin-top: 10px;
+			float: left;
+		}
+
+		&__menu-item {
+			line-height: 40px;
+			height: 100%;
+			margin-left : 15px;
+			width : 165px;
+			display: inline-block;
+			border-bottom : 1px solid rgba(255, 255, 255, 0.3);
+			color : white;
+
+			&_active {
+				background-color : rgba(255, 255, 255, 0.3);
+
+				.b-extra-b-menu__menu-item {
+					border-bottom : none;
+				}
+			}
+
+			&__text {
+				font-family: Helvetica Neue, arial, sans-serif;
+				font-size : 15px;
+				cursor:pointer;
+				&:hover {
+					color : black;
+					transition: color 0.5s ease;
+				}
+			}
+
+			&__counter {
+				float : right;
+				padding : 0 10px;
+				display : inline;
+				background-color : rgba(255, 255, 255, 0.2);
+				font-size : 12px;
+				line-height: 20px;
+				border-radius : 4px;
+				margin-top: 10px;
+				cursor : default;
+			}
+		}
+
+
+	}
+
+	& .b-blur_wrapper {
+		position : absolute;
+		left : 0;
+		top : 0;
+		right : 0;
+		bottom : 0;
+	}
+
+	&-content {
+		position : absolute;
+		left : 0;
+		top : 0;
+		right : 0;
+		bottom : 0;
+		background-color : rgba(0, 0, 0, 0.4);
+
+		&-wrapper {
+			padding-top : 10px;
+		}
+	}
+
+	&__my-hub {
+		padding-left : 55px;
+		background-color : rgba(255, 255, 255, 0.3);
+		height : 40px;
+		line-height: 40px;
+		color : white;
+		font-family: Helvetica Neue, arial, sans-serif;
+		font-size : 13px;
+		font-weight : bold;
+		cursor : default;
+	}
+}

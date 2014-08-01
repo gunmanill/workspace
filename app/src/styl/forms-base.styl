@@ -1,0 +1,46 @@
+button,
+input,
+select,
+textarea {
+  font-size: 100%;
+  margin: 0;
+  vertical-align: baseline;
+  *vertical-align: middle;
+  font-family: arial, sans-serif, helvetica;
+
+  -webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+  tap-highlight-color: rgba(255, 255, 255, 0);
+}
+
+
+input {
+  box-sizing : border-box;
+  border-radius : 4px;
+  //box-shadow: 0 1px 1px #fff, inset 0 2px 4px rgba(204, 206, 208, 0.5);
+
+  -webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+  tap-highlight-color: rgba(255, 255, 255, 0);
+
+  border:1px solid #acacac;
+  color:#999999;
+  padding: 2px 12px;
+  font-size: 12px;
+  height: 27px;
+	width : 100%;
+  line-height: 27px;
+
+  &:focus {
+    outline: none;
+  }
+}
+
+.input_clear {
+	border-radius :0;
+	border:0 none;
+	box-shadow : none;
+	background : none;
+}
+
+.component_form {
+	margin-bottom : 13px;
+}

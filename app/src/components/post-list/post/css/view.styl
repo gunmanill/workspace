@@ -1,0 +1,118 @@
+
+.b-post__item {
+	display: inline-block;
+	width 211px;
+	height 282px;
+	overflow: hidden;
+	margin: 3px 5px 3px 5px;
+	padding: 10px;
+	position: relative;
+
+	&:last-child {
+		margin-right: 0px;
+	}
+
+	&-fade {
+		position:absolute;
+		top:0;
+		left :0;
+		right :0;
+		bottom :0;
+		background :#333;
+		opacity : 0.4;
+		z-index :1;
+	}
+
+	&-img {
+		position: absolute;
+		top: 0;
+		right: 0;
+		bottom: 0;
+		left: 0;
+	}
+
+	&__author {
+		font-size : 12px;
+		font-weight : bold;
+		color :#fff;
+		font-family : Helvetica Neue, arial, sans-serif;
+
+		&-pic {
+			width:42px;
+			height :42px;
+			vertical-align : middle;
+		}
+
+		&-name {
+			vertical-align : middle;
+			padding-left : 11px;
+		}
+	}
+
+	&__body {
+
+		position: relative;
+		color:#fff;
+		z-index: 1;
+
+		&-desc {
+
+		}
+		&-uniq {
+			margin-top : 13px;
+			overflow : hidden;
+		}
+	}
+
+	&-footer {
+		position: absolute;
+		bottom: 0;
+		left: 0;
+		right: 0;
+		padding: 10px;
+		z-index: 1;
+	}
+
+	&__pots-time {
+		position: absolute;
+		right : 10px;
+		bottom : 20px;
+	}
+
+	&__result {
+		margin:0 0 0 -10px;
+		padding: 0;
+
+		&-item {
+			margin-bottom : 3px;
+			padding-left : 18px;
+			position : relative;
+		}
+
+		&-item-bg {
+			position : absolute;
+			left :0;
+			bottom :0;
+			top:0;
+			background : #e0e0e0;
+			opacity : 0.6;
+			z-index :2;
+		}
+
+		&-count,
+		&-text {
+			vertical-align : middle;
+			position : relative;
+			z-index:2;
+		}
+
+		&-count {
+			padding-right : 15px;
+			color:#333333;
+		}
+
+		&-text {
+			color:#fff;
+		}
+	}
+}

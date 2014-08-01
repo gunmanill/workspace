@@ -1,0 +1,8 @@
+<div class="err">
+  <div class="err__text">
+    Ошибка: {{=it.message}}
+  </div>
+
+  <div class="btn btn-close btn-orange">
+      закрыть</div>
+</div>

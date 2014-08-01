@@ -1,0 +1,158 @@
+/*@keyframes mymove {
+	0% {
+		background-position: 0px 0px;
+	}
+
+	100% {
+		background-position : 1020px 702px;
+	}
+}*/
+
+@import 'top_line'
+
+.b-header {
+	transition : height 0.5s ease;
+	position :relative;
+
+	&:after {
+		content: '';
+		display: block;
+		clear: both;
+	}
+
+
+
+
+	/*&__video {
+		position : absolute;
+		left : 0;
+		right : 0;
+		top : 0;
+		bottom : 0;
+		width : 100%;
+		opacity: 0.8;
+	}*/
+
+	&-menu-bottom {
+		box-shadow : inset 0px -35px 25px 1px rgba(0, 0, 0, 0.7);
+		position : absolute;
+		left : 0;
+		right : 0;
+		bottom : 0;
+		height : 50px;
+		text-align :center;
+		font-family: Helvetica Neue, arial, sans-serif;
+		font-size : 15px;
+
+
+		&__item {
+			display : inline-block;
+			color : #999999;
+			text-align : center;
+			vertical-align : middle;
+			border-top : 1px solid #999999;
+			width : 90px;
+			height : 100%;
+			line-height : 50px;
+			cursor : pointer;
+
+
+			&__active,
+			&:hover {
+				border-top-color : white;
+				color : white;
+			}
+
+			&_active {
+				border-top-color : white;
+				color : white;
+			}
+		}
+	}
+
+
+	.b-header-menu-left {
+		width: 50px;
+		height: 50px;
+		background: red;
+	}
+
+
+	&_showcase  {
+		padding-top: 92px;
+	}
+
+	.b-header_popular {
+		text-transform : uppercase;
+		color:#fff;
+		font-size : 25px;
+		line-height 24px;
+		text-align : center;
+		font-family : 'proxima_novabold';
+		letter-spacing: 2px;
+		display : none;
+	}
+
+
+	&.b-header_small,
+	&.b-header_big {
+		background: url('images/index_bg.jpg') no-repeat center 0;
+		background-size: 100%;
+		//animation: mymove 25s linear infinite;
+	}
+
+
+	&.b-header_big {
+		height: 700px;
+
+		.b-header_welcome {
+			display: block;
+		}
+
+		.b-header_popular {
+			display : none;
+		}
+	}
+
+	&.b-header_small {
+		height: 300px;
+
+		.b-header_welcome {
+			display: none;
+		}
+		.b-header_popular {
+			display : block;
+		}
+	}
+
+	&__menu  {
+		position: relative;
+		padding: 20px;
+		border-bottom: 1px solid #fff;
+
+		&__item  {
+			border-radius: 3px;
+			padding: 4px 10px;
+			margin-right: 5px;
+			color: #fff;
+			background-color: #ff6500;
+		}
+	}
+
+	&_welcome  {
+		font-family: Helvetica Neue, arial, sans-serif;
+		color: #fff;
+		text-align: center;
+
+		&__to  {
+			font-size: 15px
+			margin-bottom: 10px;
+		}
+
+		&__VeeVaVoo  {
+			font-weight: bold;
+			font-size: 50px
+		}
+	}
+
+}

@@ -1,0 +1,36 @@
+.b-post__item__result {
+  margin: 0 0 0 -10px;
+  padding: 0;
+}
+
+.b-post__item__result-item {
+  margin-bottom: 3px;
+  padding-left: 18px;
+  position: relative;
+}
+
+.b-post__item__result-item-bg {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  top: 0;
+  background: #e0e0e0;
+  opacity: .6;
+  z-index: 2;
+}
+
+.b-post__item__result-count,
+.b-post__item__result-text {
+  vertical-align: middle;
+  position: relative;
+  z-index: 2;
+}
+
+.b-post__item__result-count {
+  padding-right: 15px;
+  color: #333;
+}
+
+.b-post__item__result-text {
+  color: #fff;
+}

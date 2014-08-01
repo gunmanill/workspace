@@ -1,0 +1,46 @@
+{{? it.fade }}
+<div class="b-post__item-fade"></div>
+{{?}}
+<div class="b-post__item-img" style="background: url({{=it.img.path}}) no-repeat 0 0;background-size:{{=it.img.width}}px {{=it.img.height}}px"></div>
+
+<div class="b-post__item__body">
+	<div class="b-post__item__body-desc">
+		{{=it.description}}
+	</div>
+	<div class="b-post__item__body-uniq">
+		<ul class="b-post__item__result">
+			{{ for(var i in it.list) { }}
+				<li class="b-post__item__result-item">
+					<span class="b-post__item__result-item-bg" style="width:{{=it.list[i].count}}%"></span>
+					<span class="b-post__item__result-count b-inline-block">
+						{{=it.list[i].count}}
+					</span>
+					<span class="b-post__item__result-text b-inline-block">
+						{{=it.list[i].text}}
+					</span>
+				</li>
+			{{ } }}
+		</ul>
+	</div>
+</div>
+
+<div class="b-post__item-footer">
+	<div class="b-post__item__author" data-author-id="{{=it.author.id}}">
+		<span class="b-post__item__author-pic b-inline-block">
+			<img src="{{=it.author.user_pic}}" alt="{{=it.author.name}}"/>
+		</span>
+		<span class="b-post__item__author-name b-inline-block">
+			<span class="b-block">
+				{{=it.author.name}}
+			</span>
+			<span class="b-block">
+				{{=it.author.last_name}}
+			</span>
+		</span>
+
+		<div class="b-post__item__pots-time">
+			{{=it.time}}
+		</div>
+	</div>
+</div>
+

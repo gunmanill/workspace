@@ -1,0 +1,16 @@
+.b-post-list {
+  margin-top: 20px;
+  min-height: 50px;
+  border-radius: 5px;
+  background: #fff;
+  position: relative;
+}
+
+.b-post-list__filter {
+  padding: 5px;
+  min-height: 20px;
+}
+
+.b-post-list__content {
+  padding: 0 1em 0 1.5em;
+}

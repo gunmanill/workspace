@@ -1,0 +1,5927 @@
+{"post-list": [
+	{
+		"name": "post0",
+		"id": "064d",
+		"type": "result",
+		"fade": true,
+		"img": {
+			"path": "images/post-list/POPULAR_grid_2.png",
+			"width": "231",
+			"height": "303"
+		},
+		"list": [
+			{
+				"count": 40,
+				"text": "First inactive variant"
+			},
+			{
+				"count": 60,
+				"text": "Chosen variant"
+			},
+			{
+				"count": 30,
+				"text": "Second inactive variant"
+			},
+			{
+				"count": 70,
+				"text": "Third inactive variant"
+			},
+			{
+				"count": 80,
+				"text": "Fourth inactive variant"
+			}
+		],
+		"total_voted": 280,
+		"author": {
+			"name": "Michael",
+			"last_name": "Covent",
+			"id": "1",
+			"user_pic": "images/post-list/user_1.png"
+		},
+		"description": "Voting post result - a question in the header",
+		"time": "12:30"
+	},
+	{
+		"name": "post0",
+		"id": "8a6e",
+		"type": "event",
+		"img": {
+			"path": "images/post-list/POPULAR_grid.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "2",
+			"user_pic": "images/post-list/user_2.png"
+		},
+		"description": "Event name in header",
+		"time": "12:30"
+	},
+	{
+		"name": "post0",
+		"id": "fa87",
+		"type": "collection",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_1.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Bryan",
+			"last_name": "Depfort",
+			"id": "3",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Collection",
+		"time": "12:30"
+	},
+	{
+		"name": "post0",
+		"id": "47d9",
+		"type": "video",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_3.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "4",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Video post with play icon in the middle",
+		"time": "12:30"
+	},
+	{
+		"name": "post0",
+		"id": "3eb8",
+		"type": "gallery",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_4.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ken",
+			"last_name": "Chelsea",
+			"id": "5",
+			"user_pic": "images/post-list/user_5.png"
+		},
+		"description": "Gallery with 7 photos in it",
+		"time": "12:30"
+	},
+	{
+		"name": "post1",
+		"id": "74ae",
+		"type": "result",
+		"fade": true,
+		"img": {
+			"path": "images/post-list/POPULAR_grid_2.png",
+			"width": "231",
+			"height": "303"
+		},
+		"list": [
+			{
+				"count": 40,
+				"text": "First inactive variant"
+			},
+			{
+				"count": 60,
+				"text": "Chosen variant"
+			},
+			{
+				"count": 30,
+				"text": "Second inactive variant"
+			},
+			{
+				"count": 70,
+				"text": "Third inactive variant"
+			},
+			{
+				"count": 80,
+				"text": "Fourth inactive variant"
+			}
+		],
+		"total_voted": 280,
+		"author": {
+			"name": "Michael",
+			"last_name": "Covent",
+			"id": "1",
+			"user_pic": "images/post-list/user_1.png"
+		},
+		"description": "Voting post result - a question in the header",
+		"time": "12:30"
+	},
+	{
+		"name": "post1",
+		"id": "3795",
+		"type": "event",
+		"img": {
+			"path": "images/post-list/POPULAR_grid.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "2",
+			"user_pic": "images/post-list/user_2.png"
+		},
+		"description": "Event name in header",
+		"time": "12:30"
+	},
+	{
+		"name": "post1",
+		"id": "9b04",
+		"type": "collection",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_1.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Bryan",
+			"last_name": "Depfort",
+			"id": "3",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Collection",
+		"time": "12:30"
+	},
+	{
+		"name": "post1",
+		"id": "d942",
+		"type": "video",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_3.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "4",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Video post with play icon in the middle",
+		"time": "12:30"
+	},
+	{
+		"name": "post1",
+		"id": "7c79",
+		"type": "gallery",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_4.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ken",
+			"last_name": "Chelsea",
+			"id": "5",
+			"user_pic": "images/post-list/user_5.png"
+		},
+		"description": "Gallery with 7 photos in it",
+		"time": "12:30"
+	},
+	{
+		"name": "post2",
+		"id": "4a5c",
+		"type": "result",
+		"fade": true,
+		"img": {
+			"path": "images/post-list/POPULAR_grid_2.png",
+			"width": "231",
+			"height": "303"
+		},
+		"list": [
+			{
+				"count": 40,
+				"text": "First inactive variant"
+			},
+			{
+				"count": 60,
+				"text": "Chosen variant"
+			},
+			{
+				"count": 30,
+				"text": "Second inactive variant"
+			},
+			{
+				"count": 70,
+				"text": "Third inactive variant"
+			},
+			{
+				"count": 80,
+				"text": "Fourth inactive variant"
+			}
+		],
+		"total_voted": 280,
+		"author": {
+			"name": "Michael",
+			"last_name": "Covent",
+			"id": "1",
+			"user_pic": "images/post-list/user_1.png"
+		},
+		"description": "Voting post result - a question in the header",
+		"time": "12:30"
+	},
+	{
+		"name": "post2",
+		"id": "16a7",
+		"type": "event",
+		"img": {
+			"path": "images/post-list/POPULAR_grid.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "2",
+			"user_pic": "images/post-list/user_2.png"
+		},
+		"description": "Event name in header",
+		"time": "12:30"
+	},
+	{
+		"name": "post2",
+		"id": "d751",
+		"type": "collection",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_1.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Bryan",
+			"last_name": "Depfort",
+			"id": "3",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Collection",
+		"time": "12:30"
+	},
+	{
+		"name": "post2",
+		"id": "888d",
+		"type": "video",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_3.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "4",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Video post with play icon in the middle",
+		"time": "12:30"
+	},
+	{
+		"name": "post2",
+		"id": "ac7c",
+		"type": "gallery",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_4.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ken",
+			"last_name": "Chelsea",
+			"id": "5",
+			"user_pic": "images/post-list/user_5.png"
+		},
+		"description": "Gallery with 7 photos in it",
+		"time": "12:30"
+	},
+	{
+		"name": "post3",
+		"id": "f9fe",
+		"type": "result",
+		"fade": true,
+		"img": {
+			"path": "images/post-list/POPULAR_grid_2.png",
+			"width": "231",
+			"height": "303"
+		},
+		"list": [
+			{
+				"count": 40,
+				"text": "First inactive variant"
+			},
+			{
+				"count": 60,
+				"text": "Chosen variant"
+			},
+			{
+				"count": 30,
+				"text": "Second inactive variant"
+			},
+			{
+				"count": 70,
+				"text": "Third inactive variant"
+			},
+			{
+				"count": 80,
+				"text": "Fourth inactive variant"
+			}
+		],
+		"total_voted": 280,
+		"author": {
+			"name": "Michael",
+			"last_name": "Covent",
+			"id": "1",
+			"user_pic": "images/post-list/user_1.png"
+		},
+		"description": "Voting post result - a question in the header",
+		"time": "12:30"
+	},
+	{
+		"name": "post3",
+		"id": "0c94",
+		"type": "event",
+		"img": {
+			"path": "images/post-list/POPULAR_grid.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "2",
+			"user_pic": "images/post-list/user_2.png"
+		},
+		"description": "Event name in header",
+		"time": "12:30"
+	},
+	{
+		"name": "post3",
+		"id": "aab9",
+		"type": "collection",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_1.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Bryan",
+			"last_name": "Depfort",
+			"id": "3",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Collection",
+		"time": "12:30"
+	},
+	{
+		"name": "post3",
+		"id": "be50",
+		"type": "video",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_3.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "4",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Video post with play icon in the middle",
+		"time": "12:30"
+	},
+	{
+		"name": "post3",
+		"id": "c661",
+		"type": "gallery",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_4.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ken",
+			"last_name": "Chelsea",
+			"id": "5",
+			"user_pic": "images/post-list/user_5.png"
+		},
+		"description": "Gallery with 7 photos in it",
+		"time": "12:30"
+	},
+	{
+		"name": "post4",
+		"id": "2d98",
+		"type": "result",
+		"fade": true,
+		"img": {
+			"path": "images/post-list/POPULAR_grid_2.png",
+			"width": "231",
+			"height": "303"
+		},
+		"list": [
+			{
+				"count": 40,
+				"text": "First inactive variant"
+			},
+			{
+				"count": 60,
+				"text": "Chosen variant"
+			},
+			{
+				"count": 30,
+				"text": "Second inactive variant"
+			},
+			{
+				"count": 70,
+				"text": "Third inactive variant"
+			},
+			{
+				"count": 80,
+				"text": "Fourth inactive variant"
+			}
+		],
+		"total_voted": 280,
+		"author": {
+			"name": "Michael",
+			"last_name": "Covent",
+			"id": "1",
+			"user_pic": "images/post-list/user_1.png"
+		},
+		"description": "Voting post result - a question in the header",
+		"time": "12:30"
+	},
+	{
+		"name": "post4",
+		"id": "7061",
+		"type": "event",
+		"img": {
+			"path": "images/post-list/POPULAR_grid.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "2",
+			"user_pic": "images/post-list/user_2.png"
+		},
+		"description": "Event name in header",
+		"time": "12:30"
+	},
+	{
+		"name": "post4",
+		"id": "b9b7",
+		"type": "collection",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_1.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Bryan",
+			"last_name": "Depfort",
+			"id": "3",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Collection",
+		"time": "12:30"
+	},
+	{
+		"name": "post4",
+		"id": "2fea",
+		"type": "video",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_3.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "4",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Video post with play icon in the middle",
+		"time": "12:30"
+	},
+	{
+		"name": "post4",
+		"id": "0bea",
+		"type": "gallery",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_4.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ken",
+			"last_name": "Chelsea",
+			"id": "5",
+			"user_pic": "images/post-list/user_5.png"
+		},
+		"description": "Gallery with 7 photos in it",
+		"time": "12:30"
+	},
+	{
+		"name": "post5",
+		"id": "1dcf",
+		"type": "result",
+		"fade": true,
+		"img": {
+			"path": "images/post-list/POPULAR_grid_2.png",
+			"width": "231",
+			"height": "303"
+		},
+		"list": [
+			{
+				"count": 40,
+				"text": "First inactive variant"
+			},
+			{
+				"count": 60,
+				"text": "Chosen variant"
+			},
+			{
+				"count": 30,
+				"text": "Second inactive variant"
+			},
+			{
+				"count": 70,
+				"text": "Third inactive variant"
+			},
+			{
+				"count": 80,
+				"text": "Fourth inactive variant"
+			}
+		],
+		"total_voted": 280,
+		"author": {
+			"name": "Michael",
+			"last_name": "Covent",
+			"id": "1",
+			"user_pic": "images/post-list/user_1.png"
+		},
+		"description": "Voting post result - a question in the header",
+		"time": "12:30"
+	},
+	{
+		"name": "post5",
+		"id": "1729",
+		"type": "event",
+		"img": {
+			"path": "images/post-list/POPULAR_grid.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "2",
+			"user_pic": "images/post-list/user_2.png"
+		},
+		"description": "Event name in header",
+		"time": "12:30"
+	},
+	{
+		"name": "post5",
+		"id": "8d3e",
+		"type": "collection",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_1.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Bryan",
+			"last_name": "Depfort",
+			"id": "3",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Collection",
+		"time": "12:30"
+	},
+	{
+		"name": "post5",
+		"id": "2b1a",
+		"type": "video",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_3.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "4",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Video post with play icon in the middle",
+		"time": "12:30"
+	},
+	{
+		"name": "post5",
+		"id": "a064",
+		"type": "gallery",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_4.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ken",
+			"last_name": "Chelsea",
+			"id": "5",
+			"user_pic": "images/post-list/user_5.png"
+		},
+		"description": "Gallery with 7 photos in it",
+		"time": "12:30"
+	},
+	{
+		"name": "post6",
+		"id": "d862",
+		"type": "result",
+		"fade": true,
+		"img": {
+			"path": "images/post-list/POPULAR_grid_2.png",
+			"width": "231",
+			"height": "303"
+		},
+		"list": [
+			{
+				"count": 40,
+				"text": "First inactive variant"
+			},
+			{
+				"count": 60,
+				"text": "Chosen variant"
+			},
+			{
+				"count": 30,
+				"text": "Second inactive variant"
+			},
+			{
+				"count": 70,
+				"text": "Third inactive variant"
+			},
+			{
+				"count": 80,
+				"text": "Fourth inactive variant"
+			}
+		],
+		"total_voted": 280,
+		"author": {
+			"name": "Michael",
+			"last_name": "Covent",
+			"id": "1",
+			"user_pic": "images/post-list/user_1.png"
+		},
+		"description": "Voting post result - a question in the header",
+		"time": "12:30"
+	},
+	{
+		"name": "post6",
+		"id": "d390",
+		"type": "event",
+		"img": {
+			"path": "images/post-list/POPULAR_grid.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "2",
+			"user_pic": "images/post-list/user_2.png"
+		},
+		"description": "Event name in header",
+		"time": "12:30"
+	},
+	{
+		"name": "post6",
+		"id": "3cae",
+		"type": "collection",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_1.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Bryan",
+			"last_name": "Depfort",
+			"id": "3",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Collection",
+		"time": "12:30"
+	},
+	{
+		"name": "post6",
+		"id": "811a",
+		"type": "video",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_3.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "4",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Video post with play icon in the middle",
+		"time": "12:30"
+	},
+	{
+		"name": "post6",
+		"id": "ed7b",
+		"type": "gallery",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_4.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ken",
+			"last_name": "Chelsea",
+			"id": "5",
+			"user_pic": "images/post-list/user_5.png"
+		},
+		"description": "Gallery with 7 photos in it",
+		"time": "12:30"
+	},
+	{
+		"name": "post7",
+		"id": "ffb1",
+		"type": "result",
+		"fade": true,
+		"img": {
+			"path": "images/post-list/POPULAR_grid_2.png",
+			"width": "231",
+			"height": "303"
+		},
+		"list": [
+			{
+				"count": 40,
+				"text": "First inactive variant"
+			},
+			{
+				"count": 60,
+				"text": "Chosen variant"
+			},
+			{
+				"count": 30,
+				"text": "Second inactive variant"
+			},
+			{
+				"count": 70,
+				"text": "Third inactive variant"
+			},
+			{
+				"count": 80,
+				"text": "Fourth inactive variant"
+			}
+		],
+		"total_voted": 280,
+		"author": {
+			"name": "Michael",
+			"last_name": "Covent",
+			"id": "1",
+			"user_pic": "images/post-list/user_1.png"
+		},
+		"description": "Voting post result - a question in the header",
+		"time": "12:30"
+	},
+	{
+		"name": "post7",
+		"id": "daaf",
+		"type": "event",
+		"img": {
+			"path": "images/post-list/POPULAR_grid.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "2",
+			"user_pic": "images/post-list/user_2.png"
+		},
+		"description": "Event name in header",
+		"time": "12:30"
+	},
+	{
+		"name": "post7",
+		"id": "3a29",
+		"type": "collection",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_1.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Bryan",
+			"last_name": "Depfort",
+			"id": "3",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Collection",
+		"time": "12:30"
+	},
+	{
+		"name": "post7",
+		"id": "e137",
+		"type": "video",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_3.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "4",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Video post with play icon in the middle",
+		"time": "12:30"
+	},
+	{
+		"name": "post7",
+		"id": "e70e",
+		"type": "gallery",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_4.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ken",
+			"last_name": "Chelsea",
+			"id": "5",
+			"user_pic": "images/post-list/user_5.png"
+		},
+		"description": "Gallery with 7 photos in it",
+		"time": "12:30"
+	},
+	{
+		"name": "post8",
+		"id": "a5b8",
+		"type": "result",
+		"fade": true,
+		"img": {
+			"path": "images/post-list/POPULAR_grid_2.png",
+			"width": "231",
+			"height": "303"
+		},
+		"list": [
+			{
+				"count": 40,
+				"text": "First inactive variant"
+			},
+			{
+				"count": 60,
+				"text": "Chosen variant"
+			},
+			{
+				"count": 30,
+				"text": "Second inactive variant"
+			},
+			{
+				"count": 70,
+				"text": "Third inactive variant"
+			},
+			{
+				"count": 80,
+				"text": "Fourth inactive variant"
+			}
+		],
+		"total_voted": 280,
+		"author": {
+			"name": "Michael",
+			"last_name": "Covent",
+			"id": "1",
+			"user_pic": "images/post-list/user_1.png"
+		},
+		"description": "Voting post result - a question in the header",
+		"time": "12:30"
+	},
+	{
+		"name": "post8",
+		"id": "814f",
+		"type": "event",
+		"img": {
+			"path": "images/post-list/POPULAR_grid.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "2",
+			"user_pic": "images/post-list/user_2.png"
+		},
+		"description": "Event name in header",
+		"time": "12:30"
+	},
+	{
+		"name": "post8",
+		"id": "9c52",
+		"type": "collection",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_1.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Bryan",
+			"last_name": "Depfort",
+			"id": "3",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Collection",
+		"time": "12:30"
+	},
+	{
+		"name": "post8",
+		"id": "0e5d",
+		"type": "video",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_3.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "4",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Video post with play icon in the middle",
+		"time": "12:30"
+	},
+	{
+		"name": "post8",
+		"id": "4424",
+		"type": "gallery",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_4.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ken",
+			"last_name": "Chelsea",
+			"id": "5",
+			"user_pic": "images/post-list/user_5.png"
+		},
+		"description": "Gallery with 7 photos in it",
+		"time": "12:30"
+	},
+	{
+		"name": "post9",
+		"id": "02e5",
+		"type": "result",
+		"fade": true,
+		"img": {
+			"path": "images/post-list/POPULAR_grid_2.png",
+			"width": "231",
+			"height": "303"
+		},
+		"list": [
+			{
+				"count": 40,
+				"text": "First inactive variant"
+			},
+			{
+				"count": 60,
+				"text": "Chosen variant"
+			},
+			{
+				"count": 30,
+				"text": "Second inactive variant"
+			},
+			{
+				"count": 70,
+				"text": "Third inactive variant"
+			},
+			{
+				"count": 80,
+				"text": "Fourth inactive variant"
+			}
+		],
+		"total_voted": 280,
+		"author": {
+			"name": "Michael",
+			"last_name": "Covent",
+			"id": "1",
+			"user_pic": "images/post-list/user_1.png"
+		},
+		"description": "Voting post result - a question in the header",
+		"time": "12:30"
+	},
+	{
+		"name": "post9",
+		"id": "2005",
+		"type": "event",
+		"img": {
+			"path": "images/post-list/POPULAR_grid.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "2",
+			"user_pic": "images/post-list/user_2.png"
+		},
+		"description": "Event name in header",
+		"time": "12:30"
+	},
+	{
+		"name": "post9",
+		"id": "c168",
+		"type": "collection",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_1.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Bryan",
+			"last_name": "Depfort",
+			"id": "3",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Collection",
+		"time": "12:30"
+	},
+	{
+		"name": "post9",
+		"id": "7b2f",
+		"type": "video",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_3.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "4",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Video post with play icon in the middle",
+		"time": "12:30"
+	},
+	{
+		"name": "post9",
+		"id": "e772",
+		"type": "gallery",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_4.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ken",
+			"last_name": "Chelsea",
+			"id": "5",
+			"user_pic": "images/post-list/user_5.png"
+		},
+		"description": "Gallery with 7 photos in it",
+		"time": "12:30"
+	},
+	{
+		"name": "post10",
+		"id": "6b2c",
+		"type": "result",
+		"fade": true,
+		"img": {
+			"path": "images/post-list/POPULAR_grid_2.png",
+			"width": "231",
+			"height": "303"
+		},
+		"list": [
+			{
+				"count": 40,
+				"text": "First inactive variant"
+			},
+			{
+				"count": 60,
+				"text": "Chosen variant"
+			},
+			{
+				"count": 30,
+				"text": "Second inactive variant"
+			},
+			{
+				"count": 70,
+				"text": "Third inactive variant"
+			},
+			{
+				"count": 80,
+				"text": "Fourth inactive variant"
+			}
+		],
+		"total_voted": 280,
+		"author": {
+			"name": "Michael",
+			"last_name": "Covent",
+			"id": "1",
+			"user_pic": "images/post-list/user_1.png"
+		},
+		"description": "Voting post result - a question in the header",
+		"time": "12:30"
+	},
+	{
+		"name": "post10",
+		"id": "c48c",
+		"type": "event",
+		"img": {
+			"path": "images/post-list/POPULAR_grid.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "2",
+			"user_pic": "images/post-list/user_2.png"
+		},
+		"description": "Event name in header",
+		"time": "12:30"
+	},
+	{
+		"name": "post10",
+		"id": "8d6c",
+		"type": "collection",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_1.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Bryan",
+			"last_name": "Depfort",
+			"id": "3",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Collection",
+		"time": "12:30"
+	},
+	{
+		"name": "post10",
+		"id": "3510",
+		"type": "video",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_3.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "4",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Video post with play icon in the middle",
+		"time": "12:30"
+	},
+	{
+		"name": "post10",
+		"id": "94fa",
+		"type": "gallery",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_4.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ken",
+			"last_name": "Chelsea",
+			"id": "5",
+			"user_pic": "images/post-list/user_5.png"
+		},
+		"description": "Gallery with 7 photos in it",
+		"time": "12:30"
+	},
+	{
+		"name": "post11",
+		"id": "33d4",
+		"type": "result",
+		"fade": true,
+		"img": {
+			"path": "images/post-list/POPULAR_grid_2.png",
+			"width": "231",
+			"height": "303"
+		},
+		"list": [
+			{
+				"count": 40,
+				"text": "First inactive variant"
+			},
+			{
+				"count": 60,
+				"text": "Chosen variant"
+			},
+			{
+				"count": 30,
+				"text": "Second inactive variant"
+			},
+			{
+				"count": 70,
+				"text": "Third inactive variant"
+			},
+			{
+				"count": 80,
+				"text": "Fourth inactive variant"
+			}
+		],
+		"total_voted": 280,
+		"author": {
+			"name": "Michael",
+			"last_name": "Covent",
+			"id": "1",
+			"user_pic": "images/post-list/user_1.png"
+		},
+		"description": "Voting post result - a question in the header",
+		"time": "12:30"
+	},
+	{
+		"name": "post11",
+		"id": "752d",
+		"type": "event",
+		"img": {
+			"path": "images/post-list/POPULAR_grid.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "2",
+			"user_pic": "images/post-list/user_2.png"
+		},
+		"description": "Event name in header",
+		"time": "12:30"
+	},
+	{
+		"name": "post11",
+		"id": "af82",
+		"type": "collection",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_1.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Bryan",
+			"last_name": "Depfort",
+			"id": "3",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Collection",
+		"time": "12:30"
+	},
+	{
+		"name": "post11",
+		"id": "a02c",
+		"type": "video",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_3.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "4",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Video post with play icon in the middle",
+		"time": "12:30"
+	},
+	{
+		"name": "post11",
+		"id": "6015",
+		"type": "gallery",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_4.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ken",
+			"last_name": "Chelsea",
+			"id": "5",
+			"user_pic": "images/post-list/user_5.png"
+		},
+		"description": "Gallery with 7 photos in it",
+		"time": "12:30"
+	},
+	{
+		"name": "post12",
+		"id": "3fa3",
+		"type": "result",
+		"fade": true,
+		"img": {
+			"path": "images/post-list/POPULAR_grid_2.png",
+			"width": "231",
+			"height": "303"
+		},
+		"list": [
+			{
+				"count": 40,
+				"text": "First inactive variant"
+			},
+			{
+				"count": 60,
+				"text": "Chosen variant"
+			},
+			{
+				"count": 30,
+				"text": "Second inactive variant"
+			},
+			{
+				"count": 70,
+				"text": "Third inactive variant"
+			},
+			{
+				"count": 80,
+				"text": "Fourth inactive variant"
+			}
+		],
+		"total_voted": 280,
+		"author": {
+			"name": "Michael",
+			"last_name": "Covent",
+			"id": "1",
+			"user_pic": "images/post-list/user_1.png"
+		},
+		"description": "Voting post result - a question in the header",
+		"time": "12:30"
+	},
+	{
+		"name": "post12",
+		"id": "3703",
+		"type": "event",
+		"img": {
+			"path": "images/post-list/POPULAR_grid.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "2",
+			"user_pic": "images/post-list/user_2.png"
+		},
+		"description": "Event name in header",
+		"time": "12:30"
+	},
+	{
+		"name": "post12",
+		"id": "e293",
+		"type": "collection",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_1.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Bryan",
+			"last_name": "Depfort",
+			"id": "3",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Collection",
+		"time": "12:30"
+	},
+	{
+		"name": "post12",
+		"id": "82f9",
+		"type": "video",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_3.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "4",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Video post with play icon in the middle",
+		"time": "12:30"
+	},
+	{
+		"name": "post12",
+		"id": "0376",
+		"type": "gallery",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_4.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ken",
+			"last_name": "Chelsea",
+			"id": "5",
+			"user_pic": "images/post-list/user_5.png"
+		},
+		"description": "Gallery with 7 photos in it",
+		"time": "12:30"
+	},
+	{
+		"name": "post13",
+		"id": "69f3",
+		"type": "result",
+		"fade": true,
+		"img": {
+			"path": "images/post-list/POPULAR_grid_2.png",
+			"width": "231",
+			"height": "303"
+		},
+		"list": [
+			{
+				"count": 40,
+				"text": "First inactive variant"
+			},
+			{
+				"count": 60,
+				"text": "Chosen variant"
+			},
+			{
+				"count": 30,
+				"text": "Second inactive variant"
+			},
+			{
+				"count": 70,
+				"text": "Third inactive variant"
+			},
+			{
+				"count": 80,
+				"text": "Fourth inactive variant"
+			}
+		],
+		"total_voted": 280,
+		"author": {
+			"name": "Michael",
+			"last_name": "Covent",
+			"id": "1",
+			"user_pic": "images/post-list/user_1.png"
+		},
+		"description": "Voting post result - a question in the header",
+		"time": "12:30"
+	},
+	{
+		"name": "post13",
+		"id": "630f",
+		"type": "event",
+		"img": {
+			"path": "images/post-list/POPULAR_grid.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "2",
+			"user_pic": "images/post-list/user_2.png"
+		},
+		"description": "Event name in header",
+		"time": "12:30"
+	},
+	{
+		"name": "post13",
+		"id": "3602",
+		"type": "collection",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_1.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Bryan",
+			"last_name": "Depfort",
+			"id": "3",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Collection",
+		"time": "12:30"
+	},
+	{
+		"name": "post13",
+		"id": "4a3f",
+		"type": "video",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_3.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "4",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Video post with play icon in the middle",
+		"time": "12:30"
+	},
+	{
+		"name": "post13",
+		"id": "ed04",
+		"type": "gallery",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_4.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ken",
+			"last_name": "Chelsea",
+			"id": "5",
+			"user_pic": "images/post-list/user_5.png"
+		},
+		"description": "Gallery with 7 photos in it",
+		"time": "12:30"
+	},
+	{
+		"name": "post14",
+		"id": "09b1",
+		"type": "result",
+		"fade": true,
+		"img": {
+			"path": "images/post-list/POPULAR_grid_2.png",
+			"width": "231",
+			"height": "303"
+		},
+		"list": [
+			{
+				"count": 40,
+				"text": "First inactive variant"
+			},
+			{
+				"count": 60,
+				"text": "Chosen variant"
+			},
+			{
+				"count": 30,
+				"text": "Second inactive variant"
+			},
+			{
+				"count": 70,
+				"text": "Third inactive variant"
+			},
+			{
+				"count": 80,
+				"text": "Fourth inactive variant"
+			}
+		],
+		"total_voted": 280,
+		"author": {
+			"name": "Michael",
+			"last_name": "Covent",
+			"id": "1",
+			"user_pic": "images/post-list/user_1.png"
+		},
+		"description": "Voting post result - a question in the header",
+		"time": "12:30"
+	},
+	{
+		"name": "post14",
+		"id": "0b56",
+		"type": "event",
+		"img": {
+			"path": "images/post-list/POPULAR_grid.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "2",
+			"user_pic": "images/post-list/user_2.png"
+		},
+		"description": "Event name in header",
+		"time": "12:30"
+	},
+	{
+		"name": "post14",
+		"id": "6400",
+		"type": "collection",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_1.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Bryan",
+			"last_name": "Depfort",
+			"id": "3",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Collection",
+		"time": "12:30"
+	},
+	{
+		"name": "post14",
+		"id": "2a3f",
+		"type": "video",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_3.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "4",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Video post with play icon in the middle",
+		"time": "12:30"
+	},
+	{
+		"name": "post14",
+		"id": "6139",
+		"type": "gallery",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_4.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ken",
+			"last_name": "Chelsea",
+			"id": "5",
+			"user_pic": "images/post-list/user_5.png"
+		},
+		"description": "Gallery with 7 photos in it",
+		"time": "12:30"
+	},
+	{
+		"name": "post15",
+		"id": "0651",
+		"type": "result",
+		"fade": true,
+		"img": {
+			"path": "images/post-list/POPULAR_grid_2.png",
+			"width": "231",
+			"height": "303"
+		},
+		"list": [
+			{
+				"count": 40,
+				"text": "First inactive variant"
+			},
+			{
+				"count": 60,
+				"text": "Chosen variant"
+			},
+			{
+				"count": 30,
+				"text": "Second inactive variant"
+			},
+			{
+				"count": 70,
+				"text": "Third inactive variant"
+			},
+			{
+				"count": 80,
+				"text": "Fourth inactive variant"
+			}
+		],
+		"total_voted": 280,
+		"author": {
+			"name": "Michael",
+			"last_name": "Covent",
+			"id": "1",
+			"user_pic": "images/post-list/user_1.png"
+		},
+		"description": "Voting post result - a question in the header",
+		"time": "12:30"
+	},
+	{
+		"name": "post15",
+		"id": "445b",
+		"type": "event",
+		"img": {
+			"path": "images/post-list/POPULAR_grid.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "2",
+			"user_pic": "images/post-list/user_2.png"
+		},
+		"description": "Event name in header",
+		"time": "12:30"
+	},
+	{
+		"name": "post15",
+		"id": "8c07",
+		"type": "collection",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_1.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Bryan",
+			"last_name": "Depfort",
+			"id": "3",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Collection",
+		"time": "12:30"
+	},
+	{
+		"name": "post15",
+		"id": "aabb",
+		"type": "video",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_3.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "4",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Video post with play icon in the middle",
+		"time": "12:30"
+	},
+	{
+		"name": "post15",
+		"id": "ed87",
+		"type": "gallery",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_4.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ken",
+			"last_name": "Chelsea",
+			"id": "5",
+			"user_pic": "images/post-list/user_5.png"
+		},
+		"description": "Gallery with 7 photos in it",
+		"time": "12:30"
+	},
+	{
+		"name": "post16",
+		"id": "e6ed",
+		"type": "result",
+		"fade": true,
+		"img": {
+			"path": "images/post-list/POPULAR_grid_2.png",
+			"width": "231",
+			"height": "303"
+		},
+		"list": [
+			{
+				"count": 40,
+				"text": "First inactive variant"
+			},
+			{
+				"count": 60,
+				"text": "Chosen variant"
+			},
+			{
+				"count": 30,
+				"text": "Second inactive variant"
+			},
+			{
+				"count": 70,
+				"text": "Third inactive variant"
+			},
+			{
+				"count": 80,
+				"text": "Fourth inactive variant"
+			}
+		],
+		"total_voted": 280,
+		"author": {
+			"name": "Michael",
+			"last_name": "Covent",
+			"id": "1",
+			"user_pic": "images/post-list/user_1.png"
+		},
+		"description": "Voting post result - a question in the header",
+		"time": "12:30"
+	},
+	{
+		"name": "post16",
+		"id": "bd09",
+		"type": "event",
+		"img": {
+			"path": "images/post-list/POPULAR_grid.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "2",
+			"user_pic": "images/post-list/user_2.png"
+		},
+		"description": "Event name in header",
+		"time": "12:30"
+	},
+	{
+		"name": "post16",
+		"id": "f7d4",
+		"type": "collection",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_1.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Bryan",
+			"last_name": "Depfort",
+			"id": "3",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Collection",
+		"time": "12:30"
+	},
+	{
+		"name": "post16",
+		"id": "2e37",
+		"type": "video",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_3.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "4",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Video post with play icon in the middle",
+		"time": "12:30"
+	},
+	{
+		"name": "post16",
+		"id": "32cd",
+		"type": "gallery",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_4.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ken",
+			"last_name": "Chelsea",
+			"id": "5",
+			"user_pic": "images/post-list/user_5.png"
+		},
+		"description": "Gallery with 7 photos in it",
+		"time": "12:30"
+	},
+	{
+		"name": "post17",
+		"id": "15b9",
+		"type": "result",
+		"fade": true,
+		"img": {
+			"path": "images/post-list/POPULAR_grid_2.png",
+			"width": "231",
+			"height": "303"
+		},
+		"list": [
+			{
+				"count": 40,
+				"text": "First inactive variant"
+			},
+			{
+				"count": 60,
+				"text": "Chosen variant"
+			},
+			{
+				"count": 30,
+				"text": "Second inactive variant"
+			},
+			{
+				"count": 70,
+				"text": "Third inactive variant"
+			},
+			{
+				"count": 80,
+				"text": "Fourth inactive variant"
+			}
+		],
+		"total_voted": 280,
+		"author": {
+			"name": "Michael",
+			"last_name": "Covent",
+			"id": "1",
+			"user_pic": "images/post-list/user_1.png"
+		},
+		"description": "Voting post result - a question in the header",
+		"time": "12:30"
+	},
+	{
+		"name": "post17",
+		"id": "f7ac",
+		"type": "event",
+		"img": {
+			"path": "images/post-list/POPULAR_grid.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "2",
+			"user_pic": "images/post-list/user_2.png"
+		},
+		"description": "Event name in header",
+		"time": "12:30"
+	},
+	{
+		"name": "post17",
+		"id": "ea42",
+		"type": "collection",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_1.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Bryan",
+			"last_name": "Depfort",
+			"id": "3",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Collection",
+		"time": "12:30"
+	},
+	{
+		"name": "post17",
+		"id": "66b6",
+		"type": "video",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_3.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "4",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Video post with play icon in the middle",
+		"time": "12:30"
+	},
+	{
+		"name": "post17",
+		"id": "6c74",
+		"type": "gallery",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_4.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ken",
+			"last_name": "Chelsea",
+			"id": "5",
+			"user_pic": "images/post-list/user_5.png"
+		},
+		"description": "Gallery with 7 photos in it",
+		"time": "12:30"
+	},
+	{
+		"name": "post18",
+		"id": "a3ad",
+		"type": "result",
+		"fade": true,
+		"img": {
+			"path": "images/post-list/POPULAR_grid_2.png",
+			"width": "231",
+			"height": "303"
+		},
+		"list": [
+			{
+				"count": 40,
+				"text": "First inactive variant"
+			},
+			{
+				"count": 60,
+				"text": "Chosen variant"
+			},
+			{
+				"count": 30,
+				"text": "Second inactive variant"
+			},
+			{
+				"count": 70,
+				"text": "Third inactive variant"
+			},
+			{
+				"count": 80,
+				"text": "Fourth inactive variant"
+			}
+		],
+		"total_voted": 280,
+		"author": {
+			"name": "Michael",
+			"last_name": "Covent",
+			"id": "1",
+			"user_pic": "images/post-list/user_1.png"
+		},
+		"description": "Voting post result - a question in the header",
+		"time": "12:30"
+	},
+	{
+		"name": "post18",
+		"id": "7a19",
+		"type": "event",
+		"img": {
+			"path": "images/post-list/POPULAR_grid.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "2",
+			"user_pic": "images/post-list/user_2.png"
+		},
+		"description": "Event name in header",
+		"time": "12:30"
+	},
+	{
+		"name": "post18",
+		"id": "0e45",
+		"type": "collection",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_1.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Bryan",
+			"last_name": "Depfort",
+			"id": "3",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Collection",
+		"time": "12:30"
+	},
+	{
+		"name": "post18",
+		"id": "3049",
+		"type": "video",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_3.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "4",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Video post with play icon in the middle",
+		"time": "12:30"
+	},
+	{
+		"name": "post18",
+		"id": "dc33",
+		"type": "gallery",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_4.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ken",
+			"last_name": "Chelsea",
+			"id": "5",
+			"user_pic": "images/post-list/user_5.png"
+		},
+		"description": "Gallery with 7 photos in it",
+		"time": "12:30"
+	},
+	{
+		"name": "post19",
+		"id": "2f59",
+		"type": "result",
+		"fade": true,
+		"img": {
+			"path": "images/post-list/POPULAR_grid_2.png",
+			"width": "231",
+			"height": "303"
+		},
+		"list": [
+			{
+				"count": 40,
+				"text": "First inactive variant"
+			},
+			{
+				"count": 60,
+				"text": "Chosen variant"
+			},
+			{
+				"count": 30,
+				"text": "Second inactive variant"
+			},
+			{
+				"count": 70,
+				"text": "Third inactive variant"
+			},
+			{
+				"count": 80,
+				"text": "Fourth inactive variant"
+			}
+		],
+		"total_voted": 280,
+		"author": {
+			"name": "Michael",
+			"last_name": "Covent",
+			"id": "1",
+			"user_pic": "images/post-list/user_1.png"
+		},
+		"description": "Voting post result - a question in the header",
+		"time": "12:30"
+	},
+	{
+		"name": "post19",
+		"id": "e34d",
+		"type": "event",
+		"img": {
+			"path": "images/post-list/POPULAR_grid.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "2",
+			"user_pic": "images/post-list/user_2.png"
+		},
+		"description": "Event name in header",
+		"time": "12:30"
+	},
+	{
+		"name": "post19",
+		"id": "0415",
+		"type": "collection",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_1.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Bryan",
+			"last_name": "Depfort",
+			"id": "3",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Collection",
+		"time": "12:30"
+	},
+	{
+		"name": "post19",
+		"id": "68cd",
+		"type": "video",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_3.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "4",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Video post with play icon in the middle",
+		"time": "12:30"
+	},
+	{
+		"name": "post19",
+		"id": "0a6f",
+		"type": "gallery",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_4.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ken",
+			"last_name": "Chelsea",
+			"id": "5",
+			"user_pic": "images/post-list/user_5.png"
+		},
+		"description": "Gallery with 7 photos in it",
+		"time": "12:30"
+	},
+	{
+		"name": "post20",
+		"id": "da48",
+		"type": "result",
+		"fade": true,
+		"img": {
+			"path": "images/post-list/POPULAR_grid_2.png",
+			"width": "231",
+			"height": "303"
+		},
+		"list": [
+			{
+				"count": 40,
+				"text": "First inactive variant"
+			},
+			{
+				"count": 60,
+				"text": "Chosen variant"
+			},
+			{
+				"count": 30,
+				"text": "Second inactive variant"
+			},
+			{
+				"count": 70,
+				"text": "Third inactive variant"
+			},
+			{
+				"count": 80,
+				"text": "Fourth inactive variant"
+			}
+		],
+		"total_voted": 280,
+		"author": {
+			"name": "Michael",
+			"last_name": "Covent",
+			"id": "1",
+			"user_pic": "images/post-list/user_1.png"
+		},
+		"description": "Voting post result - a question in the header",
+		"time": "12:30"
+	},
+	{
+		"name": "post20",
+		"id": "baaa",
+		"type": "event",
+		"img": {
+			"path": "images/post-list/POPULAR_grid.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "2",
+			"user_pic": "images/post-list/user_2.png"
+		},
+		"description": "Event name in header",
+		"time": "12:30"
+	},
+	{
+		"name": "post20",
+		"id": "d8fd",
+		"type": "collection",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_1.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Bryan",
+			"last_name": "Depfort",
+			"id": "3",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Collection",
+		"time": "12:30"
+	},
+	{
+		"name": "post20",
+		"id": "4826",
+		"type": "video",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_3.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "4",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Video post with play icon in the middle",
+		"time": "12:30"
+	},
+	{
+		"name": "post20",
+		"id": "b939",
+		"type": "gallery",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_4.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ken",
+			"last_name": "Chelsea",
+			"id": "5",
+			"user_pic": "images/post-list/user_5.png"
+		},
+		"description": "Gallery with 7 photos in it",
+		"time": "12:30"
+	},
+	{
+		"name": "post21",
+		"id": "860d",
+		"type": "result",
+		"fade": true,
+		"img": {
+			"path": "images/post-list/POPULAR_grid_2.png",
+			"width": "231",
+			"height": "303"
+		},
+		"list": [
+			{
+				"count": 40,
+				"text": "First inactive variant"
+			},
+			{
+				"count": 60,
+				"text": "Chosen variant"
+			},
+			{
+				"count": 30,
+				"text": "Second inactive variant"
+			},
+			{
+				"count": 70,
+				"text": "Third inactive variant"
+			},
+			{
+				"count": 80,
+				"text": "Fourth inactive variant"
+			}
+		],
+		"total_voted": 280,
+		"author": {
+			"name": "Michael",
+			"last_name": "Covent",
+			"id": "1",
+			"user_pic": "images/post-list/user_1.png"
+		},
+		"description": "Voting post result - a question in the header",
+		"time": "12:30"
+	},
+	{
+		"name": "post21",
+		"id": "6721",
+		"type": "event",
+		"img": {
+			"path": "images/post-list/POPULAR_grid.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "2",
+			"user_pic": "images/post-list/user_2.png"
+		},
+		"description": "Event name in header",
+		"time": "12:30"
+	},
+	{
+		"name": "post21",
+		"id": "49bf",
+		"type": "collection",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_1.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Bryan",
+			"last_name": "Depfort",
+			"id": "3",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Collection",
+		"time": "12:30"
+	},
+	{
+		"name": "post21",
+		"id": "5c0e",
+		"type": "video",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_3.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "4",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Video post with play icon in the middle",
+		"time": "12:30"
+	},
+	{
+		"name": "post21",
+		"id": "8608",
+		"type": "gallery",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_4.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ken",
+			"last_name": "Chelsea",
+			"id": "5",
+			"user_pic": "images/post-list/user_5.png"
+		},
+		"description": "Gallery with 7 photos in it",
+		"time": "12:30"
+	},
+	{
+		"name": "post22",
+		"id": "c492",
+		"type": "result",
+		"fade": true,
+		"img": {
+			"path": "images/post-list/POPULAR_grid_2.png",
+			"width": "231",
+			"height": "303"
+		},
+		"list": [
+			{
+				"count": 40,
+				"text": "First inactive variant"
+			},
+			{
+				"count": 60,
+				"text": "Chosen variant"
+			},
+			{
+				"count": 30,
+				"text": "Second inactive variant"
+			},
+			{
+				"count": 70,
+				"text": "Third inactive variant"
+			},
+			{
+				"count": 80,
+				"text": "Fourth inactive variant"
+			}
+		],
+		"total_voted": 280,
+		"author": {
+			"name": "Michael",
+			"last_name": "Covent",
+			"id": "1",
+			"user_pic": "images/post-list/user_1.png"
+		},
+		"description": "Voting post result - a question in the header",
+		"time": "12:30"
+	},
+	{
+		"name": "post22",
+		"id": "9a66",
+		"type": "event",
+		"img": {
+			"path": "images/post-list/POPULAR_grid.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "2",
+			"user_pic": "images/post-list/user_2.png"
+		},
+		"description": "Event name in header",
+		"time": "12:30"
+	},
+	{
+		"name": "post22",
+		"id": "283b",
+		"type": "collection",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_1.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Bryan",
+			"last_name": "Depfort",
+			"id": "3",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Collection",
+		"time": "12:30"
+	},
+	{
+		"name": "post22",
+		"id": "a2b7",
+		"type": "video",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_3.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "4",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Video post with play icon in the middle",
+		"time": "12:30"
+	},
+	{
+		"name": "post22",
+		"id": "f38e",
+		"type": "gallery",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_4.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ken",
+			"last_name": "Chelsea",
+			"id": "5",
+			"user_pic": "images/post-list/user_5.png"
+		},
+		"description": "Gallery with 7 photos in it",
+		"time": "12:30"
+	},
+	{
+		"name": "post23",
+		"id": "182d",
+		"type": "result",
+		"fade": true,
+		"img": {
+			"path": "images/post-list/POPULAR_grid_2.png",
+			"width": "231",
+			"height": "303"
+		},
+		"list": [
+			{
+				"count": 40,
+				"text": "First inactive variant"
+			},
+			{
+				"count": 60,
+				"text": "Chosen variant"
+			},
+			{
+				"count": 30,
+				"text": "Second inactive variant"
+			},
+			{
+				"count": 70,
+				"text": "Third inactive variant"
+			},
+			{
+				"count": 80,
+				"text": "Fourth inactive variant"
+			}
+		],
+		"total_voted": 280,
+		"author": {
+			"name": "Michael",
+			"last_name": "Covent",
+			"id": "1",
+			"user_pic": "images/post-list/user_1.png"
+		},
+		"description": "Voting post result - a question in the header",
+		"time": "12:30"
+	},
+	{
+		"name": "post23",
+		"id": "7ce5",
+		"type": "event",
+		"img": {
+			"path": "images/post-list/POPULAR_grid.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "2",
+			"user_pic": "images/post-list/user_2.png"
+		},
+		"description": "Event name in header",
+		"time": "12:30"
+	},
+	{
+		"name": "post23",
+		"id": "66fa",
+		"type": "collection",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_1.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Bryan",
+			"last_name": "Depfort",
+			"id": "3",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Collection",
+		"time": "12:30"
+	},
+	{
+		"name": "post23",
+		"id": "0804",
+		"type": "video",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_3.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "4",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Video post with play icon in the middle",
+		"time": "12:30"
+	},
+	{
+		"name": "post23",
+		"id": "1e8b",
+		"type": "gallery",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_4.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ken",
+			"last_name": "Chelsea",
+			"id": "5",
+			"user_pic": "images/post-list/user_5.png"
+		},
+		"description": "Gallery with 7 photos in it",
+		"time": "12:30"
+	},
+	{
+		"name": "post24",
+		"id": "c8b1",
+		"type": "result",
+		"fade": true,
+		"img": {
+			"path": "images/post-list/POPULAR_grid_2.png",
+			"width": "231",
+			"height": "303"
+		},
+		"list": [
+			{
+				"count": 40,
+				"text": "First inactive variant"
+			},
+			{
+				"count": 60,
+				"text": "Chosen variant"
+			},
+			{
+				"count": 30,
+				"text": "Second inactive variant"
+			},
+			{
+				"count": 70,
+				"text": "Third inactive variant"
+			},
+			{
+				"count": 80,
+				"text": "Fourth inactive variant"
+			}
+		],
+		"total_voted": 280,
+		"author": {
+			"name": "Michael",
+			"last_name": "Covent",
+			"id": "1",
+			"user_pic": "images/post-list/user_1.png"
+		},
+		"description": "Voting post result - a question in the header",
+		"time": "12:30"
+	},
+	{
+		"name": "post24",
+		"id": "8299",
+		"type": "event",
+		"img": {
+			"path": "images/post-list/POPULAR_grid.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "2",
+			"user_pic": "images/post-list/user_2.png"
+		},
+		"description": "Event name in header",
+		"time": "12:30"
+	},
+	{
+		"name": "post24",
+		"id": "9118",
+		"type": "collection",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_1.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Bryan",
+			"last_name": "Depfort",
+			"id": "3",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Collection",
+		"time": "12:30"
+	},
+	{
+		"name": "post24",
+		"id": "4cb2",
+		"type": "video",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_3.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "4",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Video post with play icon in the middle",
+		"time": "12:30"
+	},
+	{
+		"name": "post24",
+		"id": "3865",
+		"type": "gallery",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_4.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ken",
+			"last_name": "Chelsea",
+			"id": "5",
+			"user_pic": "images/post-list/user_5.png"
+		},
+		"description": "Gallery with 7 photos in it",
+		"time": "12:30"
+	},
+	{
+		"name": "post25",
+		"id": "7cd5",
+		"type": "result",
+		"fade": true,
+		"img": {
+			"path": "images/post-list/POPULAR_grid_2.png",
+			"width": "231",
+			"height": "303"
+		},
+		"list": [
+			{
+				"count": 40,
+				"text": "First inactive variant"
+			},
+			{
+				"count": 60,
+				"text": "Chosen variant"
+			},
+			{
+				"count": 30,
+				"text": "Second inactive variant"
+			},
+			{
+				"count": 70,
+				"text": "Third inactive variant"
+			},
+			{
+				"count": 80,
+				"text": "Fourth inactive variant"
+			}
+		],
+		"total_voted": 280,
+		"author": {
+			"name": "Michael",
+			"last_name": "Covent",
+			"id": "1",
+			"user_pic": "images/post-list/user_1.png"
+		},
+		"description": "Voting post result - a question in the header",
+		"time": "12:30"
+	},
+	{
+		"name": "post25",
+		"id": "8ed4",
+		"type": "event",
+		"img": {
+			"path": "images/post-list/POPULAR_grid.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "2",
+			"user_pic": "images/post-list/user_2.png"
+		},
+		"description": "Event name in header",
+		"time": "12:30"
+	},
+	{
+		"name": "post25",
+		"id": "33ea",
+		"type": "collection",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_1.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Bryan",
+			"last_name": "Depfort",
+			"id": "3",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Collection",
+		"time": "12:30"
+	},
+	{
+		"name": "post25",
+		"id": "2abb",
+		"type": "video",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_3.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "4",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Video post with play icon in the middle",
+		"time": "12:30"
+	},
+	{
+		"name": "post25",
+		"id": "f8a5",
+		"type": "gallery",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_4.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ken",
+			"last_name": "Chelsea",
+			"id": "5",
+			"user_pic": "images/post-list/user_5.png"
+		},
+		"description": "Gallery with 7 photos in it",
+		"time": "12:30"
+	},
+	{
+		"name": "post26",
+		"id": "da5d",
+		"type": "result",
+		"fade": true,
+		"img": {
+			"path": "images/post-list/POPULAR_grid_2.png",
+			"width": "231",
+			"height": "303"
+		},
+		"list": [
+			{
+				"count": 40,
+				"text": "First inactive variant"
+			},
+			{
+				"count": 60,
+				"text": "Chosen variant"
+			},
+			{
+				"count": 30,
+				"text": "Second inactive variant"
+			},
+			{
+				"count": 70,
+				"text": "Third inactive variant"
+			},
+			{
+				"count": 80,
+				"text": "Fourth inactive variant"
+			}
+		],
+		"total_voted": 280,
+		"author": {
+			"name": "Michael",
+			"last_name": "Covent",
+			"id": "1",
+			"user_pic": "images/post-list/user_1.png"
+		},
+		"description": "Voting post result - a question in the header",
+		"time": "12:30"
+	},
+	{
+		"name": "post26",
+		"id": "e9e3",
+		"type": "event",
+		"img": {
+			"path": "images/post-list/POPULAR_grid.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "2",
+			"user_pic": "images/post-list/user_2.png"
+		},
+		"description": "Event name in header",
+		"time": "12:30"
+	},
+	{
+		"name": "post26",
+		"id": "053a",
+		"type": "collection",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_1.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Bryan",
+			"last_name": "Depfort",
+			"id": "3",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Collection",
+		"time": "12:30"
+	},
+	{
+		"name": "post26",
+		"id": "0ad0",
+		"type": "video",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_3.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "4",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Video post with play icon in the middle",
+		"time": "12:30"
+	},
+	{
+		"name": "post26",
+		"id": "710f",
+		"type": "gallery",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_4.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ken",
+			"last_name": "Chelsea",
+			"id": "5",
+			"user_pic": "images/post-list/user_5.png"
+		},
+		"description": "Gallery with 7 photos in it",
+		"time": "12:30"
+	},
+	{
+		"name": "post27",
+		"id": "dab9",
+		"type": "result",
+		"fade": true,
+		"img": {
+			"path": "images/post-list/POPULAR_grid_2.png",
+			"width": "231",
+			"height": "303"
+		},
+		"list": [
+			{
+				"count": 40,
+				"text": "First inactive variant"
+			},
+			{
+				"count": 60,
+				"text": "Chosen variant"
+			},
+			{
+				"count": 30,
+				"text": "Second inactive variant"
+			},
+			{
+				"count": 70,
+				"text": "Third inactive variant"
+			},
+			{
+				"count": 80,
+				"text": "Fourth inactive variant"
+			}
+		],
+		"total_voted": 280,
+		"author": {
+			"name": "Michael",
+			"last_name": "Covent",
+			"id": "1",
+			"user_pic": "images/post-list/user_1.png"
+		},
+		"description": "Voting post result - a question in the header",
+		"time": "12:30"
+	},
+	{
+		"name": "post27",
+		"id": "ee03",
+		"type": "event",
+		"img": {
+			"path": "images/post-list/POPULAR_grid.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "2",
+			"user_pic": "images/post-list/user_2.png"
+		},
+		"description": "Event name in header",
+		"time": "12:30"
+	},
+	{
+		"name": "post27",
+		"id": "8121",
+		"type": "collection",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_1.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Bryan",
+			"last_name": "Depfort",
+			"id": "3",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Collection",
+		"time": "12:30"
+	},
+	{
+		"name": "post27",
+		"id": "eee4",
+		"type": "video",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_3.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "4",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Video post with play icon in the middle",
+		"time": "12:30"
+	},
+	{
+		"name": "post27",
+		"id": "b954",
+		"type": "gallery",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_4.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ken",
+			"last_name": "Chelsea",
+			"id": "5",
+			"user_pic": "images/post-list/user_5.png"
+		},
+		"description": "Gallery with 7 photos in it",
+		"time": "12:30"
+	},
+	{
+		"name": "post28",
+		"id": "b8b0",
+		"type": "result",
+		"fade": true,
+		"img": {
+			"path": "images/post-list/POPULAR_grid_2.png",
+			"width": "231",
+			"height": "303"
+		},
+		"list": [
+			{
+				"count": 40,
+				"text": "First inactive variant"
+			},
+			{
+				"count": 60,
+				"text": "Chosen variant"
+			},
+			{
+				"count": 30,
+				"text": "Second inactive variant"
+			},
+			{
+				"count": 70,
+				"text": "Third inactive variant"
+			},
+			{
+				"count": 80,
+				"text": "Fourth inactive variant"
+			}
+		],
+		"total_voted": 280,
+		"author": {
+			"name": "Michael",
+			"last_name": "Covent",
+			"id": "1",
+			"user_pic": "images/post-list/user_1.png"
+		},
+		"description": "Voting post result - a question in the header",
+		"time": "12:30"
+	},
+	{
+		"name": "post28",
+		"id": "9663",
+		"type": "event",
+		"img": {
+			"path": "images/post-list/POPULAR_grid.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "2",
+			"user_pic": "images/post-list/user_2.png"
+		},
+		"description": "Event name in header",
+		"time": "12:30"
+	},
+	{
+		"name": "post28",
+		"id": "5fb6",
+		"type": "collection",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_1.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Bryan",
+			"last_name": "Depfort",
+			"id": "3",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Collection",
+		"time": "12:30"
+	},
+	{
+		"name": "post28",
+		"id": "960d",
+		"type": "video",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_3.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "4",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Video post with play icon in the middle",
+		"time": "12:30"
+	},
+	{
+		"name": "post28",
+		"id": "93b5",
+		"type": "gallery",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_4.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ken",
+			"last_name": "Chelsea",
+			"id": "5",
+			"user_pic": "images/post-list/user_5.png"
+		},
+		"description": "Gallery with 7 photos in it",
+		"time": "12:30"
+	},
+	{
+		"name": "post29",
+		"id": "21fc",
+		"type": "result",
+		"fade": true,
+		"img": {
+			"path": "images/post-list/POPULAR_grid_2.png",
+			"width": "231",
+			"height": "303"
+		},
+		"list": [
+			{
+				"count": 40,
+				"text": "First inactive variant"
+			},
+			{
+				"count": 60,
+				"text": "Chosen variant"
+			},
+			{
+				"count": 30,
+				"text": "Second inactive variant"
+			},
+			{
+				"count": 70,
+				"text": "Third inactive variant"
+			},
+			{
+				"count": 80,
+				"text": "Fourth inactive variant"
+			}
+		],
+		"total_voted": 280,
+		"author": {
+			"name": "Michael",
+			"last_name": "Covent",
+			"id": "1",
+			"user_pic": "images/post-list/user_1.png"
+		},
+		"description": "Voting post result - a question in the header",
+		"time": "12:30"
+	},
+	{
+		"name": "post29",
+		"id": "d029",
+		"type": "event",
+		"img": {
+			"path": "images/post-list/POPULAR_grid.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "2",
+			"user_pic": "images/post-list/user_2.png"
+		},
+		"description": "Event name in header",
+		"time": "12:30"
+	},
+	{
+		"name": "post29",
+		"id": "d592",
+		"type": "collection",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_1.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Bryan",
+			"last_name": "Depfort",
+			"id": "3",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Collection",
+		"time": "12:30"
+	},
+	{
+		"name": "post29",
+		"id": "ea89",
+		"type": "video",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_3.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "4",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Video post with play icon in the middle",
+		"time": "12:30"
+	},
+	{
+		"name": "post29",
+		"id": "db8c",
+		"type": "gallery",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_4.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ken",
+			"last_name": "Chelsea",
+			"id": "5",
+			"user_pic": "images/post-list/user_5.png"
+		},
+		"description": "Gallery with 7 photos in it",
+		"time": "12:30"
+	},
+	{
+		"name": "post30",
+		"id": "f6af",
+		"type": "result",
+		"fade": true,
+		"img": {
+			"path": "images/post-list/POPULAR_grid_2.png",
+			"width": "231",
+			"height": "303"
+		},
+		"list": [
+			{
+				"count": 40,
+				"text": "First inactive variant"
+			},
+			{
+				"count": 60,
+				"text": "Chosen variant"
+			},
+			{
+				"count": 30,
+				"text": "Second inactive variant"
+			},
+			{
+				"count": 70,
+				"text": "Third inactive variant"
+			},
+			{
+				"count": 80,
+				"text": "Fourth inactive variant"
+			}
+		],
+		"total_voted": 280,
+		"author": {
+			"name": "Michael",
+			"last_name": "Covent",
+			"id": "1",
+			"user_pic": "images/post-list/user_1.png"
+		},
+		"description": "Voting post result - a question in the header",
+		"time": "12:30"
+	},
+	{
+		"name": "post30",
+		"id": "254c",
+		"type": "event",
+		"img": {
+			"path": "images/post-list/POPULAR_grid.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "2",
+			"user_pic": "images/post-list/user_2.png"
+		},
+		"description": "Event name in header",
+		"time": "12:30"
+	},
+	{
+		"name": "post30",
+		"id": "56e3",
+		"type": "collection",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_1.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Bryan",
+			"last_name": "Depfort",
+			"id": "3",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Collection",
+		"time": "12:30"
+	},
+	{
+		"name": "post30",
+		"id": "bd44",
+		"type": "video",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_3.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "4",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Video post with play icon in the middle",
+		"time": "12:30"
+	},
+	{
+		"name": "post30",
+		"id": "66b6",
+		"type": "gallery",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_4.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ken",
+			"last_name": "Chelsea",
+			"id": "5",
+			"user_pic": "images/post-list/user_5.png"
+		},
+		"description": "Gallery with 7 photos in it",
+		"time": "12:30"
+	},
+	{
+		"name": "post31",
+		"id": "5fea",
+		"type": "result",
+		"fade": true,
+		"img": {
+			"path": "images/post-list/POPULAR_grid_2.png",
+			"width": "231",
+			"height": "303"
+		},
+		"list": [
+			{
+				"count": 40,
+				"text": "First inactive variant"
+			},
+			{
+				"count": 60,
+				"text": "Chosen variant"
+			},
+			{
+				"count": 30,
+				"text": "Second inactive variant"
+			},
+			{
+				"count": 70,
+				"text": "Third inactive variant"
+			},
+			{
+				"count": 80,
+				"text": "Fourth inactive variant"
+			}
+		],
+		"total_voted": 280,
+		"author": {
+			"name": "Michael",
+			"last_name": "Covent",
+			"id": "1",
+			"user_pic": "images/post-list/user_1.png"
+		},
+		"description": "Voting post result - a question in the header",
+		"time": "12:30"
+	},
+	{
+		"name": "post31",
+		"id": "442a",
+		"type": "event",
+		"img": {
+			"path": "images/post-list/POPULAR_grid.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "2",
+			"user_pic": "images/post-list/user_2.png"
+		},
+		"description": "Event name in header",
+		"time": "12:30"
+	},
+	{
+		"name": "post31",
+		"id": "1f21",
+		"type": "collection",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_1.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Bryan",
+			"last_name": "Depfort",
+			"id": "3",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Collection",
+		"time": "12:30"
+	},
+	{
+		"name": "post31",
+		"id": "5310",
+		"type": "video",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_3.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "4",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Video post with play icon in the middle",
+		"time": "12:30"
+	},
+	{
+		"name": "post31",
+		"id": "9fe5",
+		"type": "gallery",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_4.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ken",
+			"last_name": "Chelsea",
+			"id": "5",
+			"user_pic": "images/post-list/user_5.png"
+		},
+		"description": "Gallery with 7 photos in it",
+		"time": "12:30"
+	},
+	{
+		"name": "post32",
+		"id": "9e17",
+		"type": "result",
+		"fade": true,
+		"img": {
+			"path": "images/post-list/POPULAR_grid_2.png",
+			"width": "231",
+			"height": "303"
+		},
+		"list": [
+			{
+				"count": 40,
+				"text": "First inactive variant"
+			},
+			{
+				"count": 60,
+				"text": "Chosen variant"
+			},
+			{
+				"count": 30,
+				"text": "Second inactive variant"
+			},
+			{
+				"count": 70,
+				"text": "Third inactive variant"
+			},
+			{
+				"count": 80,
+				"text": "Fourth inactive variant"
+			}
+		],
+		"total_voted": 280,
+		"author": {
+			"name": "Michael",
+			"last_name": "Covent",
+			"id": "1",
+			"user_pic": "images/post-list/user_1.png"
+		},
+		"description": "Voting post result - a question in the header",
+		"time": "12:30"
+	},
+	{
+		"name": "post32",
+		"id": "658c",
+		"type": "event",
+		"img": {
+			"path": "images/post-list/POPULAR_grid.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "2",
+			"user_pic": "images/post-list/user_2.png"
+		},
+		"description": "Event name in header",
+		"time": "12:30"
+	},
+	{
+		"name": "post32",
+		"id": "87ad",
+		"type": "collection",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_1.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Bryan",
+			"last_name": "Depfort",
+			"id": "3",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Collection",
+		"time": "12:30"
+	},
+	{
+		"name": "post32",
+		"id": "ffdd",
+		"type": "video",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_3.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "4",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Video post with play icon in the middle",
+		"time": "12:30"
+	},
+	{
+		"name": "post32",
+		"id": "6e0c",
+		"type": "gallery",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_4.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ken",
+			"last_name": "Chelsea",
+			"id": "5",
+			"user_pic": "images/post-list/user_5.png"
+		},
+		"description": "Gallery with 7 photos in it",
+		"time": "12:30"
+	},
+	{
+		"name": "post33",
+		"id": "de88",
+		"type": "result",
+		"fade": true,
+		"img": {
+			"path": "images/post-list/POPULAR_grid_2.png",
+			"width": "231",
+			"height": "303"
+		},
+		"list": [
+			{
+				"count": 40,
+				"text": "First inactive variant"
+			},
+			{
+				"count": 60,
+				"text": "Chosen variant"
+			},
+			{
+				"count": 30,
+				"text": "Second inactive variant"
+			},
+			{
+				"count": 70,
+				"text": "Third inactive variant"
+			},
+			{
+				"count": 80,
+				"text": "Fourth inactive variant"
+			}
+		],
+		"total_voted": 280,
+		"author": {
+			"name": "Michael",
+			"last_name": "Covent",
+			"id": "1",
+			"user_pic": "images/post-list/user_1.png"
+		},
+		"description": "Voting post result - a question in the header",
+		"time": "12:30"
+	},
+	{
+		"name": "post33",
+		"id": "fd24",
+		"type": "event",
+		"img": {
+			"path": "images/post-list/POPULAR_grid.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "2",
+			"user_pic": "images/post-list/user_2.png"
+		},
+		"description": "Event name in header",
+		"time": "12:30"
+	},
+	{
+		"name": "post33",
+		"id": "52da",
+		"type": "collection",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_1.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Bryan",
+			"last_name": "Depfort",
+			"id": "3",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Collection",
+		"time": "12:30"
+	},
+	{
+		"name": "post33",
+		"id": "e75b",
+		"type": "video",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_3.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "4",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Video post with play icon in the middle",
+		"time": "12:30"
+	},
+	{
+		"name": "post33",
+		"id": "4f6e",
+		"type": "gallery",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_4.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ken",
+			"last_name": "Chelsea",
+			"id": "5",
+			"user_pic": "images/post-list/user_5.png"
+		},
+		"description": "Gallery with 7 photos in it",
+		"time": "12:30"
+	},
+	{
+		"name": "post34",
+		"id": "e8c0",
+		"type": "result",
+		"fade": true,
+		"img": {
+			"path": "images/post-list/POPULAR_grid_2.png",
+			"width": "231",
+			"height": "303"
+		},
+		"list": [
+			{
+				"count": 40,
+				"text": "First inactive variant"
+			},
+			{
+				"count": 60,
+				"text": "Chosen variant"
+			},
+			{
+				"count": 30,
+				"text": "Second inactive variant"
+			},
+			{
+				"count": 70,
+				"text": "Third inactive variant"
+			},
+			{
+				"count": 80,
+				"text": "Fourth inactive variant"
+			}
+		],
+		"total_voted": 280,
+		"author": {
+			"name": "Michael",
+			"last_name": "Covent",
+			"id": "1",
+			"user_pic": "images/post-list/user_1.png"
+		},
+		"description": "Voting post result - a question in the header",
+		"time": "12:30"
+	},
+	{
+		"name": "post34",
+		"id": "029b",
+		"type": "event",
+		"img": {
+			"path": "images/post-list/POPULAR_grid.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "2",
+			"user_pic": "images/post-list/user_2.png"
+		},
+		"description": "Event name in header",
+		"time": "12:30"
+	},
+	{
+		"name": "post34",
+		"id": "cf90",
+		"type": "collection",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_1.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Bryan",
+			"last_name": "Depfort",
+			"id": "3",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Collection",
+		"time": "12:30"
+	},
+	{
+		"name": "post34",
+		"id": "5960",
+		"type": "video",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_3.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "4",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Video post with play icon in the middle",
+		"time": "12:30"
+	},
+	{
+		"name": "post34",
+		"id": "41b6",
+		"type": "gallery",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_4.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ken",
+			"last_name": "Chelsea",
+			"id": "5",
+			"user_pic": "images/post-list/user_5.png"
+		},
+		"description": "Gallery with 7 photos in it",
+		"time": "12:30"
+	},
+	{
+		"name": "post35",
+		"id": "38e5",
+		"type": "result",
+		"fade": true,
+		"img": {
+			"path": "images/post-list/POPULAR_grid_2.png",
+			"width": "231",
+			"height": "303"
+		},
+		"list": [
+			{
+				"count": 40,
+				"text": "First inactive variant"
+			},
+			{
+				"count": 60,
+				"text": "Chosen variant"
+			},
+			{
+				"count": 30,
+				"text": "Second inactive variant"
+			},
+			{
+				"count": 70,
+				"text": "Third inactive variant"
+			},
+			{
+				"count": 80,
+				"text": "Fourth inactive variant"
+			}
+		],
+		"total_voted": 280,
+		"author": {
+			"name": "Michael",
+			"last_name": "Covent",
+			"id": "1",
+			"user_pic": "images/post-list/user_1.png"
+		},
+		"description": "Voting post result - a question in the header",
+		"time": "12:30"
+	},
+	{
+		"name": "post35",
+		"id": "186d",
+		"type": "event",
+		"img": {
+			"path": "images/post-list/POPULAR_grid.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "2",
+			"user_pic": "images/post-list/user_2.png"
+		},
+		"description": "Event name in header",
+		"time": "12:30"
+	},
+	{
+		"name": "post35",
+		"id": "211a",
+		"type": "collection",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_1.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Bryan",
+			"last_name": "Depfort",
+			"id": "3",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Collection",
+		"time": "12:30"
+	},
+	{
+		"name": "post35",
+		"id": "1537",
+		"type": "video",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_3.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "4",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Video post with play icon in the middle",
+		"time": "12:30"
+	},
+	{
+		"name": "post35",
+		"id": "3062",
+		"type": "gallery",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_4.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ken",
+			"last_name": "Chelsea",
+			"id": "5",
+			"user_pic": "images/post-list/user_5.png"
+		},
+		"description": "Gallery with 7 photos in it",
+		"time": "12:30"
+	},
+	{
+		"name": "post36",
+		"id": "1dfd",
+		"type": "result",
+		"fade": true,
+		"img": {
+			"path": "images/post-list/POPULAR_grid_2.png",
+			"width": "231",
+			"height": "303"
+		},
+		"list": [
+			{
+				"count": 40,
+				"text": "First inactive variant"
+			},
+			{
+				"count": 60,
+				"text": "Chosen variant"
+			},
+			{
+				"count": 30,
+				"text": "Second inactive variant"
+			},
+			{
+				"count": 70,
+				"text": "Third inactive variant"
+			},
+			{
+				"count": 80,
+				"text": "Fourth inactive variant"
+			}
+		],
+		"total_voted": 280,
+		"author": {
+			"name": "Michael",
+			"last_name": "Covent",
+			"id": "1",
+			"user_pic": "images/post-list/user_1.png"
+		},
+		"description": "Voting post result - a question in the header",
+		"time": "12:30"
+	},
+	{
+		"name": "post36",
+		"id": "e2e8",
+		"type": "event",
+		"img": {
+			"path": "images/post-list/POPULAR_grid.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "2",
+			"user_pic": "images/post-list/user_2.png"
+		},
+		"description": "Event name in header",
+		"time": "12:30"
+	},
+	{
+		"name": "post36",
+		"id": "7695",
+		"type": "collection",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_1.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Bryan",
+			"last_name": "Depfort",
+			"id": "3",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Collection",
+		"time": "12:30"
+	},
+	{
+		"name": "post36",
+		"id": "8e46",
+		"type": "video",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_3.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "4",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Video post with play icon in the middle",
+		"time": "12:30"
+	},
+	{
+		"name": "post36",
+		"id": "056f",
+		"type": "gallery",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_4.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ken",
+			"last_name": "Chelsea",
+			"id": "5",
+			"user_pic": "images/post-list/user_5.png"
+		},
+		"description": "Gallery with 7 photos in it",
+		"time": "12:30"
+	},
+	{
+		"name": "post37",
+		"id": "94aa",
+		"type": "result",
+		"fade": true,
+		"img": {
+			"path": "images/post-list/POPULAR_grid_2.png",
+			"width": "231",
+			"height": "303"
+		},
+		"list": [
+			{
+				"count": 40,
+				"text": "First inactive variant"
+			},
+			{
+				"count": 60,
+				"text": "Chosen variant"
+			},
+			{
+				"count": 30,
+				"text": "Second inactive variant"
+			},
+			{
+				"count": 70,
+				"text": "Third inactive variant"
+			},
+			{
+				"count": 80,
+				"text": "Fourth inactive variant"
+			}
+		],
+		"total_voted": 280,
+		"author": {
+			"name": "Michael",
+			"last_name": "Covent",
+			"id": "1",
+			"user_pic": "images/post-list/user_1.png"
+		},
+		"description": "Voting post result - a question in the header",
+		"time": "12:30"
+	},
+	{
+		"name": "post37",
+		"id": "b48d",
+		"type": "event",
+		"img": {
+			"path": "images/post-list/POPULAR_grid.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "2",
+			"user_pic": "images/post-list/user_2.png"
+		},
+		"description": "Event name in header",
+		"time": "12:30"
+	},
+	{
+		"name": "post37",
+		"id": "e67f",
+		"type": "collection",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_1.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Bryan",
+			"last_name": "Depfort",
+			"id": "3",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Collection",
+		"time": "12:30"
+	},
+	{
+		"name": "post37",
+		"id": "ddc6",
+		"type": "video",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_3.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "4",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Video post with play icon in the middle",
+		"time": "12:30"
+	},
+	{
+		"name": "post37",
+		"id": "2aec",
+		"type": "gallery",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_4.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ken",
+			"last_name": "Chelsea",
+			"id": "5",
+			"user_pic": "images/post-list/user_5.png"
+		},
+		"description": "Gallery with 7 photos in it",
+		"time": "12:30"
+	},
+	{
+		"name": "post38",
+		"id": "0d46",
+		"type": "result",
+		"fade": true,
+		"img": {
+			"path": "images/post-list/POPULAR_grid_2.png",
+			"width": "231",
+			"height": "303"
+		},
+		"list": [
+			{
+				"count": 40,
+				"text": "First inactive variant"
+			},
+			{
+				"count": 60,
+				"text": "Chosen variant"
+			},
+			{
+				"count": 30,
+				"text": "Second inactive variant"
+			},
+			{
+				"count": 70,
+				"text": "Third inactive variant"
+			},
+			{
+				"count": 80,
+				"text": "Fourth inactive variant"
+			}
+		],
+		"total_voted": 280,
+		"author": {
+			"name": "Michael",
+			"last_name": "Covent",
+			"id": "1",
+			"user_pic": "images/post-list/user_1.png"
+		},
+		"description": "Voting post result - a question in the header",
+		"time": "12:30"
+	},
+	{
+		"name": "post38",
+		"id": "a131",
+		"type": "event",
+		"img": {
+			"path": "images/post-list/POPULAR_grid.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "2",
+			"user_pic": "images/post-list/user_2.png"
+		},
+		"description": "Event name in header",
+		"time": "12:30"
+	},
+	{
+		"name": "post38",
+		"id": "3472",
+		"type": "collection",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_1.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Bryan",
+			"last_name": "Depfort",
+			"id": "3",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Collection",
+		"time": "12:30"
+	},
+	{
+		"name": "post38",
+		"id": "3f11",
+		"type": "video",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_3.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "4",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Video post with play icon in the middle",
+		"time": "12:30"
+	},
+	{
+		"name": "post38",
+		"id": "ab10",
+		"type": "gallery",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_4.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ken",
+			"last_name": "Chelsea",
+			"id": "5",
+			"user_pic": "images/post-list/user_5.png"
+		},
+		"description": "Gallery with 7 photos in it",
+		"time": "12:30"
+	},
+	{
+		"name": "post39",
+		"id": "d2a9",
+		"type": "result",
+		"fade": true,
+		"img": {
+			"path": "images/post-list/POPULAR_grid_2.png",
+			"width": "231",
+			"height": "303"
+		},
+		"list": [
+			{
+				"count": 40,
+				"text": "First inactive variant"
+			},
+			{
+				"count": 60,
+				"text": "Chosen variant"
+			},
+			{
+				"count": 30,
+				"text": "Second inactive variant"
+			},
+			{
+				"count": 70,
+				"text": "Third inactive variant"
+			},
+			{
+				"count": 80,
+				"text": "Fourth inactive variant"
+			}
+		],
+		"total_voted": 280,
+		"author": {
+			"name": "Michael",
+			"last_name": "Covent",
+			"id": "1",
+			"user_pic": "images/post-list/user_1.png"
+		},
+		"description": "Voting post result - a question in the header",
+		"time": "12:30"
+	},
+	{
+		"name": "post39",
+		"id": "0337",
+		"type": "event",
+		"img": {
+			"path": "images/post-list/POPULAR_grid.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "2",
+			"user_pic": "images/post-list/user_2.png"
+		},
+		"description": "Event name in header",
+		"time": "12:30"
+	},
+	{
+		"name": "post39",
+		"id": "8fe3",
+		"type": "collection",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_1.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Bryan",
+			"last_name": "Depfort",
+			"id": "3",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Collection",
+		"time": "12:30"
+	},
+	{
+		"name": "post39",
+		"id": "c55f",
+		"type": "video",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_3.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "4",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Video post with play icon in the middle",
+		"time": "12:30"
+	},
+	{
+		"name": "post39",
+		"id": "9bf6",
+		"type": "gallery",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_4.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ken",
+			"last_name": "Chelsea",
+			"id": "5",
+			"user_pic": "images/post-list/user_5.png"
+		},
+		"description": "Gallery with 7 photos in it",
+		"time": "12:30"
+	},
+	{
+		"name": "post40",
+		"id": "b008",
+		"type": "result",
+		"fade": true,
+		"img": {
+			"path": "images/post-list/POPULAR_grid_2.png",
+			"width": "231",
+			"height": "303"
+		},
+		"list": [
+			{
+				"count": 40,
+				"text": "First inactive variant"
+			},
+			{
+				"count": 60,
+				"text": "Chosen variant"
+			},
+			{
+				"count": 30,
+				"text": "Second inactive variant"
+			},
+			{
+				"count": 70,
+				"text": "Third inactive variant"
+			},
+			{
+				"count": 80,
+				"text": "Fourth inactive variant"
+			}
+		],
+		"total_voted": 280,
+		"author": {
+			"name": "Michael",
+			"last_name": "Covent",
+			"id": "1",
+			"user_pic": "images/post-list/user_1.png"
+		},
+		"description": "Voting post result - a question in the header",
+		"time": "12:30"
+	},
+	{
+		"name": "post40",
+		"id": "9cb1",
+		"type": "event",
+		"img": {
+			"path": "images/post-list/POPULAR_grid.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "2",
+			"user_pic": "images/post-list/user_2.png"
+		},
+		"description": "Event name in header",
+		"time": "12:30"
+	},
+	{
+		"name": "post40",
+		"id": "dfc4",
+		"type": "collection",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_1.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Bryan",
+			"last_name": "Depfort",
+			"id": "3",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Collection",
+		"time": "12:30"
+	},
+	{
+		"name": "post40",
+		"id": "6d44",
+		"type": "video",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_3.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "4",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Video post with play icon in the middle",
+		"time": "12:30"
+	},
+	{
+		"name": "post40",
+		"id": "f9ca",
+		"type": "gallery",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_4.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ken",
+			"last_name": "Chelsea",
+			"id": "5",
+			"user_pic": "images/post-list/user_5.png"
+		},
+		"description": "Gallery with 7 photos in it",
+		"time": "12:30"
+	},
+	{
+		"name": "post41",
+		"id": "2206",
+		"type": "result",
+		"fade": true,
+		"img": {
+			"path": "images/post-list/POPULAR_grid_2.png",
+			"width": "231",
+			"height": "303"
+		},
+		"list": [
+			{
+				"count": 40,
+				"text": "First inactive variant"
+			},
+			{
+				"count": 60,
+				"text": "Chosen variant"
+			},
+			{
+				"count": 30,
+				"text": "Second inactive variant"
+			},
+			{
+				"count": 70,
+				"text": "Third inactive variant"
+			},
+			{
+				"count": 80,
+				"text": "Fourth inactive variant"
+			}
+		],
+		"total_voted": 280,
+		"author": {
+			"name": "Michael",
+			"last_name": "Covent",
+			"id": "1",
+			"user_pic": "images/post-list/user_1.png"
+		},
+		"description": "Voting post result - a question in the header",
+		"time": "12:30"
+	},
+	{
+		"name": "post41",
+		"id": "8c8b",
+		"type": "event",
+		"img": {
+			"path": "images/post-list/POPULAR_grid.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "2",
+			"user_pic": "images/post-list/user_2.png"
+		},
+		"description": "Event name in header",
+		"time": "12:30"
+	},
+	{
+		"name": "post41",
+		"id": "fdef",
+		"type": "collection",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_1.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Bryan",
+			"last_name": "Depfort",
+			"id": "3",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Collection",
+		"time": "12:30"
+	},
+	{
+		"name": "post41",
+		"id": "8e85",
+		"type": "video",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_3.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "4",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Video post with play icon in the middle",
+		"time": "12:30"
+	},
+	{
+		"name": "post41",
+		"id": "74ab",
+		"type": "gallery",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_4.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ken",
+			"last_name": "Chelsea",
+			"id": "5",
+			"user_pic": "images/post-list/user_5.png"
+		},
+		"description": "Gallery with 7 photos in it",
+		"time": "12:30"
+	},
+	{
+		"name": "post42",
+		"id": "fac8",
+		"type": "result",
+		"fade": true,
+		"img": {
+			"path": "images/post-list/POPULAR_grid_2.png",
+			"width": "231",
+			"height": "303"
+		},
+		"list": [
+			{
+				"count": 40,
+				"text": "First inactive variant"
+			},
+			{
+				"count": 60,
+				"text": "Chosen variant"
+			},
+			{
+				"count": 30,
+				"text": "Second inactive variant"
+			},
+			{
+				"count": 70,
+				"text": "Third inactive variant"
+			},
+			{
+				"count": 80,
+				"text": "Fourth inactive variant"
+			}
+		],
+		"total_voted": 280,
+		"author": {
+			"name": "Michael",
+			"last_name": "Covent",
+			"id": "1",
+			"user_pic": "images/post-list/user_1.png"
+		},
+		"description": "Voting post result - a question in the header",
+		"time": "12:30"
+	},
+	{
+		"name": "post42",
+		"id": "2bde",
+		"type": "event",
+		"img": {
+			"path": "images/post-list/POPULAR_grid.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "2",
+			"user_pic": "images/post-list/user_2.png"
+		},
+		"description": "Event name in header",
+		"time": "12:30"
+	},
+	{
+		"name": "post42",
+		"id": "d670",
+		"type": "collection",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_1.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Bryan",
+			"last_name": "Depfort",
+			"id": "3",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Collection",
+		"time": "12:30"
+	},
+	{
+		"name": "post42",
+		"id": "78fd",
+		"type": "video",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_3.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "4",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Video post with play icon in the middle",
+		"time": "12:30"
+	},
+	{
+		"name": "post42",
+		"id": "04d5",
+		"type": "gallery",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_4.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ken",
+			"last_name": "Chelsea",
+			"id": "5",
+			"user_pic": "images/post-list/user_5.png"
+		},
+		"description": "Gallery with 7 photos in it",
+		"time": "12:30"
+	},
+	{
+		"name": "post43",
+		"id": "8c88",
+		"type": "result",
+		"fade": true,
+		"img": {
+			"path": "images/post-list/POPULAR_grid_2.png",
+			"width": "231",
+			"height": "303"
+		},
+		"list": [
+			{
+				"count": 40,
+				"text": "First inactive variant"
+			},
+			{
+				"count": 60,
+				"text": "Chosen variant"
+			},
+			{
+				"count": 30,
+				"text": "Second inactive variant"
+			},
+			{
+				"count": 70,
+				"text": "Third inactive variant"
+			},
+			{
+				"count": 80,
+				"text": "Fourth inactive variant"
+			}
+		],
+		"total_voted": 280,
+		"author": {
+			"name": "Michael",
+			"last_name": "Covent",
+			"id": "1",
+			"user_pic": "images/post-list/user_1.png"
+		},
+		"description": "Voting post result - a question in the header",
+		"time": "12:30"
+	},
+	{
+		"name": "post43",
+		"id": "0dd0",
+		"type": "event",
+		"img": {
+			"path": "images/post-list/POPULAR_grid.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "2",
+			"user_pic": "images/post-list/user_2.png"
+		},
+		"description": "Event name in header",
+		"time": "12:30"
+	},
+	{
+		"name": "post43",
+		"id": "a7ee",
+		"type": "collection",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_1.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Bryan",
+			"last_name": "Depfort",
+			"id": "3",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Collection",
+		"time": "12:30"
+	},
+	{
+		"name": "post43",
+		"id": "dfa6",
+		"type": "video",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_3.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "4",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Video post with play icon in the middle",
+		"time": "12:30"
+	},
+	{
+		"name": "post43",
+		"id": "36bb",
+		"type": "gallery",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_4.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ken",
+			"last_name": "Chelsea",
+			"id": "5",
+			"user_pic": "images/post-list/user_5.png"
+		},
+		"description": "Gallery with 7 photos in it",
+		"time": "12:30"
+	},
+	{
+		"name": "post44",
+		"id": "de64",
+		"type": "result",
+		"fade": true,
+		"img": {
+			"path": "images/post-list/POPULAR_grid_2.png",
+			"width": "231",
+			"height": "303"
+		},
+		"list": [
+			{
+				"count": 40,
+				"text": "First inactive variant"
+			},
+			{
+				"count": 60,
+				"text": "Chosen variant"
+			},
+			{
+				"count": 30,
+				"text": "Second inactive variant"
+			},
+			{
+				"count": 70,
+				"text": "Third inactive variant"
+			},
+			{
+				"count": 80,
+				"text": "Fourth inactive variant"
+			}
+		],
+		"total_voted": 280,
+		"author": {
+			"name": "Michael",
+			"last_name": "Covent",
+			"id": "1",
+			"user_pic": "images/post-list/user_1.png"
+		},
+		"description": "Voting post result - a question in the header",
+		"time": "12:30"
+	},
+	{
+		"name": "post44",
+		"id": "199d",
+		"type": "event",
+		"img": {
+			"path": "images/post-list/POPULAR_grid.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "2",
+			"user_pic": "images/post-list/user_2.png"
+		},
+		"description": "Event name in header",
+		"time": "12:30"
+	},
+	{
+		"name": "post44",
+		"id": "47f9",
+		"type": "collection",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_1.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Bryan",
+			"last_name": "Depfort",
+			"id": "3",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Collection",
+		"time": "12:30"
+	},
+	{
+		"name": "post44",
+		"id": "455d",
+		"type": "video",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_3.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "4",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Video post with play icon in the middle",
+		"time": "12:30"
+	},
+	{
+		"name": "post44",
+		"id": "112d",
+		"type": "gallery",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_4.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ken",
+			"last_name": "Chelsea",
+			"id": "5",
+			"user_pic": "images/post-list/user_5.png"
+		},
+		"description": "Gallery with 7 photos in it",
+		"time": "12:30"
+	},
+	{
+		"name": "post45",
+		"id": "4c1a",
+		"type": "result",
+		"fade": true,
+		"img": {
+			"path": "images/post-list/POPULAR_grid_2.png",
+			"width": "231",
+			"height": "303"
+		},
+		"list": [
+			{
+				"count": 40,
+				"text": "First inactive variant"
+			},
+			{
+				"count": 60,
+				"text": "Chosen variant"
+			},
+			{
+				"count": 30,
+				"text": "Second inactive variant"
+			},
+			{
+				"count": 70,
+				"text": "Third inactive variant"
+			},
+			{
+				"count": 80,
+				"text": "Fourth inactive variant"
+			}
+		],
+		"total_voted": 280,
+		"author": {
+			"name": "Michael",
+			"last_name": "Covent",
+			"id": "1",
+			"user_pic": "images/post-list/user_1.png"
+		},
+		"description": "Voting post result - a question in the header",
+		"time": "12:30"
+	},
+	{
+		"name": "post45",
+		"id": "6593",
+		"type": "event",
+		"img": {
+			"path": "images/post-list/POPULAR_grid.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "2",
+			"user_pic": "images/post-list/user_2.png"
+		},
+		"description": "Event name in header",
+		"time": "12:30"
+	},
+	{
+		"name": "post45",
+		"id": "abdb",
+		"type": "collection",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_1.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Bryan",
+			"last_name": "Depfort",
+			"id": "3",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Collection",
+		"time": "12:30"
+	},
+	{
+		"name": "post45",
+		"id": "d6b5",
+		"type": "video",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_3.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "4",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Video post with play icon in the middle",
+		"time": "12:30"
+	},
+	{
+		"name": "post45",
+		"id": "275d",
+		"type": "gallery",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_4.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ken",
+			"last_name": "Chelsea",
+			"id": "5",
+			"user_pic": "images/post-list/user_5.png"
+		},
+		"description": "Gallery with 7 photos in it",
+		"time": "12:30"
+	},
+	{
+		"name": "post46",
+		"id": "860b",
+		"type": "result",
+		"fade": true,
+		"img": {
+			"path": "images/post-list/POPULAR_grid_2.png",
+			"width": "231",
+			"height": "303"
+		},
+		"list": [
+			{
+				"count": 40,
+				"text": "First inactive variant"
+			},
+			{
+				"count": 60,
+				"text": "Chosen variant"
+			},
+			{
+				"count": 30,
+				"text": "Second inactive variant"
+			},
+			{
+				"count": 70,
+				"text": "Third inactive variant"
+			},
+			{
+				"count": 80,
+				"text": "Fourth inactive variant"
+			}
+		],
+		"total_voted": 280,
+		"author": {
+			"name": "Michael",
+			"last_name": "Covent",
+			"id": "1",
+			"user_pic": "images/post-list/user_1.png"
+		},
+		"description": "Voting post result - a question in the header",
+		"time": "12:30"
+	},
+	{
+		"name": "post46",
+		"id": "9ddb",
+		"type": "event",
+		"img": {
+			"path": "images/post-list/POPULAR_grid.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "2",
+			"user_pic": "images/post-list/user_2.png"
+		},
+		"description": "Event name in header",
+		"time": "12:30"
+	},
+	{
+		"name": "post46",
+		"id": "b570",
+		"type": "collection",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_1.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Bryan",
+			"last_name": "Depfort",
+			"id": "3",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Collection",
+		"time": "12:30"
+	},
+	{
+		"name": "post46",
+		"id": "699c",
+		"type": "video",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_3.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "4",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Video post with play icon in the middle",
+		"time": "12:30"
+	},
+	{
+		"name": "post46",
+		"id": "bdca",
+		"type": "gallery",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_4.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ken",
+			"last_name": "Chelsea",
+			"id": "5",
+			"user_pic": "images/post-list/user_5.png"
+		},
+		"description": "Gallery with 7 photos in it",
+		"time": "12:30"
+	},
+	{
+		"name": "post47",
+		"id": "33c5",
+		"type": "result",
+		"fade": true,
+		"img": {
+			"path": "images/post-list/POPULAR_grid_2.png",
+			"width": "231",
+			"height": "303"
+		},
+		"list": [
+			{
+				"count": 40,
+				"text": "First inactive variant"
+			},
+			{
+				"count": 60,
+				"text": "Chosen variant"
+			},
+			{
+				"count": 30,
+				"text": "Second inactive variant"
+			},
+			{
+				"count": 70,
+				"text": "Third inactive variant"
+			},
+			{
+				"count": 80,
+				"text": "Fourth inactive variant"
+			}
+		],
+		"total_voted": 280,
+		"author": {
+			"name": "Michael",
+			"last_name": "Covent",
+			"id": "1",
+			"user_pic": "images/post-list/user_1.png"
+		},
+		"description": "Voting post result - a question in the header",
+		"time": "12:30"
+	},
+	{
+		"name": "post47",
+		"id": "9f6f",
+		"type": "event",
+		"img": {
+			"path": "images/post-list/POPULAR_grid.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "2",
+			"user_pic": "images/post-list/user_2.png"
+		},
+		"description": "Event name in header",
+		"time": "12:30"
+	},
+	{
+		"name": "post47",
+		"id": "0e0e",
+		"type": "collection",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_1.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Bryan",
+			"last_name": "Depfort",
+			"id": "3",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Collection",
+		"time": "12:30"
+	},
+	{
+		"name": "post47",
+		"id": "67f1",
+		"type": "video",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_3.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "4",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Video post with play icon in the middle",
+		"time": "12:30"
+	},
+	{
+		"name": "post47",
+		"id": "271a",
+		"type": "gallery",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_4.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ken",
+			"last_name": "Chelsea",
+			"id": "5",
+			"user_pic": "images/post-list/user_5.png"
+		},
+		"description": "Gallery with 7 photos in it",
+		"time": "12:30"
+	},
+	{
+		"name": "post48",
+		"id": "9514",
+		"type": "result",
+		"fade": true,
+		"img": {
+			"path": "images/post-list/POPULAR_grid_2.png",
+			"width": "231",
+			"height": "303"
+		},
+		"list": [
+			{
+				"count": 40,
+				"text": "First inactive variant"
+			},
+			{
+				"count": 60,
+				"text": "Chosen variant"
+			},
+			{
+				"count": 30,
+				"text": "Second inactive variant"
+			},
+			{
+				"count": 70,
+				"text": "Third inactive variant"
+			},
+			{
+				"count": 80,
+				"text": "Fourth inactive variant"
+			}
+		],
+		"total_voted": 280,
+		"author": {
+			"name": "Michael",
+			"last_name": "Covent",
+			"id": "1",
+			"user_pic": "images/post-list/user_1.png"
+		},
+		"description": "Voting post result - a question in the header",
+		"time": "12:30"
+	},
+	{
+		"name": "post48",
+		"id": "1694",
+		"type": "event",
+		"img": {
+			"path": "images/post-list/POPULAR_grid.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "2",
+			"user_pic": "images/post-list/user_2.png"
+		},
+		"description": "Event name in header",
+		"time": "12:30"
+	},
+	{
+		"name": "post48",
+		"id": "b7f9",
+		"type": "collection",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_1.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Bryan",
+			"last_name": "Depfort",
+			"id": "3",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Collection",
+		"time": "12:30"
+	},
+	{
+		"name": "post48",
+		"id": "38cc",
+		"type": "video",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_3.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "4",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Video post with play icon in the middle",
+		"time": "12:30"
+	},
+	{
+		"name": "post48",
+		"id": "f361",
+		"type": "gallery",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_4.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ken",
+			"last_name": "Chelsea",
+			"id": "5",
+			"user_pic": "images/post-list/user_5.png"
+		},
+		"description": "Gallery with 7 photos in it",
+		"time": "12:30"
+	},
+	{
+		"name": "post49",
+		"id": "aa4f",
+		"type": "result",
+		"fade": true,
+		"img": {
+			"path": "images/post-list/POPULAR_grid_2.png",
+			"width": "231",
+			"height": "303"
+		},
+		"list": [
+			{
+				"count": 40,
+				"text": "First inactive variant"
+			},
+			{
+				"count": 60,
+				"text": "Chosen variant"
+			},
+			{
+				"count": 30,
+				"text": "Second inactive variant"
+			},
+			{
+				"count": 70,
+				"text": "Third inactive variant"
+			},
+			{
+				"count": 80,
+				"text": "Fourth inactive variant"
+			}
+		],
+		"total_voted": 280,
+		"author": {
+			"name": "Michael",
+			"last_name": "Covent",
+			"id": "1",
+			"user_pic": "images/post-list/user_1.png"
+		},
+		"description": "Voting post result - a question in the header",
+		"time": "12:30"
+	},
+	{
+		"name": "post49",
+		"id": "2921",
+		"type": "event",
+		"img": {
+			"path": "images/post-list/POPULAR_grid.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "2",
+			"user_pic": "images/post-list/user_2.png"
+		},
+		"description": "Event name in header",
+		"time": "12:30"
+	},
+	{
+		"name": "post49",
+		"id": "15dc",
+		"type": "collection",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_1.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Bryan",
+			"last_name": "Depfort",
+			"id": "3",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Collection",
+		"time": "12:30"
+	},
+	{
+		"name": "post49",
+		"id": "a564",
+		"type": "video",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_3.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ciara",
+			"last_name": "Brixton",
+			"id": "4",
+			"user_pic": "images/post-list/user_3.png"
+		},
+		"description": "Video post with play icon in the middle",
+		"time": "12:30"
+	},
+	{
+		"name": "post49",
+		"id": "f329",
+		"type": "gallery",
+		"img": {
+			"path": "images/post-list/POPULAR_grid_4.png",
+			"width": "231",
+			"height": "303"
+		},
+		"total_voted": 280,
+		"author": {
+			"name": "Ken",
+			"last_name": "Chelsea",
+			"id": "5",
+			"user_pic": "images/post-list/user_5.png"
+		},
+		"description": "Gallery with 7 photos in it",
+		"time": "12:30"
+	}
+], "post_fiter": [
+	{
+		"id": 1,
+		"name": "video"
+	},
+	{
+		"id": 2,
+		"name": "text"
+	},
+	{
+		"id": 3,
+		"name": "collection"
+	},
+	{
+		"id": 4,
+		"name": "result"
+	},
+	{
+		"id": 5,
+		"name": "event"
+	},
+	{
+		"id": 6,
+		"name": "gallery"
+	}
+]}
